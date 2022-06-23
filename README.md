@@ -1,2 +1,2 @@
 # Message-Queue
-![plot](Desktop/drawio.png)
+![alt text](https://github.com/ManeStepanyan/Message-Queue/blob/main/drawio.png?raw=true)
