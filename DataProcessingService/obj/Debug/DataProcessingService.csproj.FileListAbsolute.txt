@@ -1,0 +1,8 @@
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataProcessingService\bin\Debug\DataProcessingService.exe.config
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataProcessingService\bin\Debug\DataProcessingService.exe
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataProcessingService\bin\Debug\DataProcessingService.pdb
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataProcessingService\obj\Debug\DataProcessingService.csproj.AssemblyReference.cache
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataProcessingService\obj\Debug\DataProcessingService.csproj.CoreCompileInputs.cache
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataProcessingService\obj\Debug\DataProcessingService.exe
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataProcessingService\obj\Debug\DataProcessingService.pdb
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataProcessingService\bin\Debug\LocalFolder\WriteLines.txt

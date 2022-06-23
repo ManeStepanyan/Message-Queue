@@ -1,0 +1,724 @@
+
+Wikipedia:Teahouse
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Skip to topSkip to bottom
+This is the teahouse
+Shortcuts
+WP:TEA
+WP:TH
+Medical Recipe Collection Wellcome L0049308.jpg
+Bonadea, a Teahouse host
+
+Welcome to the Teahouse!
+A friendly place where you can ask questions
+to get help with using and editing Wikipedia
+Ask a question
+Question forumMeet your hostsArticles to improveBecome a host
+New to Wikipedia? See our tutorial for new editors or introduction to contributing page.
+Note: Newer questions appear at the bottom of the Teahouse. Completed questions are archived within 2-3 days.
+
+Search Help pages
+ 
+To read the newest questions, skip to bottomAbout the Teahouse
+
+Contents
+1	life
+2	Blogspot source?
+3	Alert about my talk page at a Wiki I have not visited
+4	How to edit a timeline?
+5	Twin
+6	How to format a textbox of a certain size
+7	Can I make a page in my user namespace unvisible?
+8	Draft:Philipp Hochmair
+9	Moderator Complaint
+10	Off wiki wikibashing
+11	Recording Artist And Dj looking for wikipedia page.
+12	How do I jump to a specific line in an article?
+13	Article Unable to Publish
+14	About User:Eric behavior of removing a large number of city's built-in climate data templates.
+15	First article
+16	Date time template
+17	Repeating a topic on a talk page?
+18	What do I do here?
+19	Question About Independent Sources
+20	Article Review
+21	Article Draft Declined (Need help)
+22	United States Football League (2022)
+23	Alternative article source link
+24	What is a host
+25	Writing an article about a company
+26	Roblox Games not having an article.
+27	Passive voice
+28	Publishing My First Article
+29	Not-RSs and See also sections
+30	Please help me to edit Kurd-related articles!
+31	Can Someone help with William J LaVarre?
+32	How to remove the blue external link icon
+33	ABCDE - CD Ripper Page is missing
+34	Template:Politics sidebar
+35	Need to fix title
+36	Tag:reverted
+37	Assistance requested
+38	deletion log
+39	What to do with patent nonsense that has a source?
+40	How to add the text on image
+41	Big Clean Up
+42	How to unprotect a protected page
+43	Delete my Draft
+44	Writing about emerging artists
+45	Unsure what to do about addition to a biographical page
+46	Additions to Existing Article
+47	How to handle edits that change names/Wikilinks into their native language?
+48	Suggest Bot
+49	Stacking userboxes
+50	Trouble with citations
+51	Reliable sources/Perennial sources
+52	Acquiring a Mentor
+53	Publishing an article in return for undisclosed payments
+54	Depression/Anxiety while exam day
+55	Submission of article for review
+56	How do I delete a cancelled article.
+57	Why is it so hard to navigate Wikipedia's meta-pages?
+58	question
+59	Wikipedia Analytics for Wikiprojects
+60	Auto archiving whatever webpage I add to any articles
+61	How do you type at the line of the heading
+62	How to Report an Incorrect Photo of a Person on a Page
+63	Semi-protected article
+64	Author's pseudonym
+65	Need help to know why my article is regarded as promoting a company or instituion
+66	BMW E36 saloon 1994.
+67	Assistance in Editing Page
+68	Editor conduct
+Most recent archives
+1137, 1138, 1139, 1140, 1141, 1142, 1143, 1144, 1145, 1146, 1147, 1148, 1149, 1150, 1151, 1152, 1153, 1154, 1155, 1156
+
+Search archives
+ 
+life
+OUT OF SCOPE
+Yes, this is not what the Teahouse is for. Closing so it will stop attracting comments and instead drift off into the archives. 199.208.172.35 (talk) 22:20, 21 June 2022 (UTC)
+The following discussion is closed. Please do not modify it. Subsequent comments should be made on the appropriate discussion page. No further edits should be made to this discussion.
+confusing life 115.242.150.130 (talk) 05:27, 17 June 2022 (UTC)
+
+The teahouse is for questions not for discussions.`~HelpingWorld~` (👽🛸) 08:49, 17 June 2022 (UTC)
+If you want to make threads, this isn't the place, go to an image board or something. Casint (talk) 16:15, 18 June 2022 (UTC)
+That was a bit harsh, but correct. 73.127.147.187 (talk) 06:26, 19 June 2022 (UTC)
+115.242.150.130, please use somewhere else, this is not a general chat forum. 2601:205:C001:EA0:C88F:FB3C:BF32:6730 (talk) 22:10, 21 June 2022 (UTC)
+The discussion above is closed. Please do not modify it. Subsequent comments should be made on the appropriate discussion page. No further edits should be made to this discussion.
+Blogspot source?
+Hi all, I'm relatively new to editing Wikipedia and I'm trying to add sources to an article I wrote that's been declined for havinf too few sources. I'm trying to add a blogspot source (independent album review and interview with the artist), but Wikipedia gave me a warning so I wanted to ask about the rules. Described the problem in further detail here: Draft talk:Macroblank
+
+Thanks in advance for the help! LucasThree (talk) 16:27, 18 June 2022 (UTC)
+
+Hi @LucasThree, welcome to the Teahouse. Blogs are generally considered unreliable, and since there's also an interview with the artist, the independence is questionable too. If the author of the blog is an established critic, the source might be usable in some ways, but probably not to establish notability. 174.21.23.32 (talk) 16:37, 18 June 2022 (UTC)
+LucasThree, welcome to Wikipedia! I hope you liked the place and decided to stay. For an article to be published here, it should be notable and should have reliable sources as citations/references for the sake of verifiability. Wikipedia doesn't accepted original research. Please go through introduction and referencing for beginners to learn more about how the site works. Baggaet (talk) 16:43, 18 June 2022 (UTC)
+@LucasThree Just so you know, blogs aren't considered "reliable" because there is rarely any editorial control, no fact-checking, and there's generally no way for anyone else to ask for corrections or to highlight incorrect information. Anyone can say anything they want in a blog. If WP didn't restrict the use of blogs as sources, that incorrect info could be used to "source" a WP article. I hope that helps explain the policy. An interview and review probably wouldn't be "made up", but the WP policy is there so we don't need to figure that out. 73.127.147.187 (talk) 02:07, 21 June 2022 (UTC)
+Alert about my talk page at a Wiki I have not visited
+Hi, I don't think I have ever visited the Hindi Wiki, and I certainly don't speak it. Why would I have an alert that someone posted to my (presumably) non-existent talk page there? Is this a sign of account hacking or spoofing or something? I didn't open it, or the Hindi wiki, so I don't have a diff. Thanks NewsAndEventsGuy (talk) 19:06, 18 June 2022 (UTC)
+
+You must have visited it today, they have an auto-generated welcome for all "new accounts" which means your account automatically attaches to any Wikipedia project you visit. PRAXIDICAE🌈 19:10, 18 June 2022 (UTC)
+Are you kidding? I've been deep into deleting fluff from my en.wiki watchlist, and working on pages directly related to the Jan 6 committee hearings. If I click an image (template FILE) on an article in the en.wiki, might it open in the Hindi wiki without my realizing it? That's the only thing I can remotely think that I did myself. NewsAndEventsGuy (talk) 19:19, 18 June 2022 (UTC) PS thanks for the help figuring it out. I guess I must not have sounded appreciative when I snorted..... I just don't think that's it. NewsAndEventsGuy (talk) 19:21, 18 June 2022 (UTC)
+You can probably check your history, it's really not a big deal. If you clicked some sort of interwiki link, and it was through Hiwiki, it would automatically connect because of WP:CENTRALAUTH. PRAXIDICAE🌈 19:27, 18 June 2022 (UTC)
+I know about version histories and contribs lists.... is there a log of what things I merely visited? That would be cool, how do I find it?NewsAndEventsGuy (talk) 19:30, 18 June 2022 (UTC)
+No, I meant your internet browser's history. PRAXIDICAE🌈 19:35, 18 June 2022 (UTC)les
+I have all the bells and whistles set up to delete my footprints, at least periodically, and even restore my partition from an image file roughly monthly, so that's not an option.NewsAndEventsGuy (talk) 20:02, 18 June 2022 (UTC)
+CentralAuth should have a record of when you visited a given wiki and thus got autobestowed an account (due to SUL). —Jéské Couriano v^_^v a little blue Bori 19:44, 18 June 2022 (UTC)
+That's interesting. It says I've been "Attached" to a long list of wikis (what the devil is test2.wiki?) .... but at login. And all those other wikis in the list are the same, attached at login. What's that about? I almost always do wiki on a desktop from home in the US. NewsAndEventsGuy (talk) 20:02, 18 June 2022 (UTC)
+@NewsAndEventsGuy: That's your WP:SUL. It reserves your username on all wikis (so nobody else can impersonate you), and automatically creates your local account when you visit a wiki you've never visited before. ––FormalDude talk 20:08, 18 June 2022 (UTC)
+"SUL"!!! How wonderfully ironic given the immediately following thread we both tried to answer about being NPOV writing on religion.... I still say I have NEVER visited these other places, so don't understand why I got a notice about my (fake?) talk page at the Hindi wiki today. NewsAndEventsGuy (talk) 20:16, 18 June 2022 (UTC)
+Your hindi talk page is real: hi:सदस्य वार्ता:NewsAndEventsGuy. I don't know why it would have been created without you visiting it though. ––FormalDude talk 20:24, 18 June 2022 (UTC)
+It's because whether they realize it or not, they must have clicked something and visited hiwiki. This thread is a bit of a nothingburger though, there's nothing enwiki can do and it's a normal part of Wikimedia/mediawiki's functions. PRAXIDICAE🌈 20:27, 18 June 2022 (UTC)
+@NewsAndEventsGuy A lot of browsers will preload pages to speed up your browsing experience, e.g. chrome has a setting to "preload pages for a faster browsing experience" in the cookie settings page. If this is enabled then when you visit a page with links to other projects in it your browser might start loading pages from other projects in the background, at which point the servers will create a local account for you and you'll recieve a welcome. 192.76.8.88 (talk) 20:33, 18 June 2022 (UTC)
+Test2.wiki is a test wiki for playing around with software features and testing the stability of new versions of mediawiki. 192.76.8.88 (talk) 20:36, 18 June 2022 (UTC)
+@192.76.8.88: Thanks, preloading makes sense. I don't see anything in my settings (current Firefox). I use google for a home page, and there are icons for commonly used things, one of which is wikipedia. I click on that and get the global main wiki page. Do the other language wikis randomly populate, or change once in awhile? And could I be triggering some preload code just when my mouse rolls over one? That would explain it. NewsAndEventsGuy (talk) 20:49, 18 June 2022 (UTC)
+
+@NewsAndEventsGuy Firefox will preload content from sites without you clicking on them in some situations, see this support document for the details. The language links on the homepage are based on the pageviews of each project and do get changed occasionally. It's probably going to be impossible to figure out exactly what caused you to visit the Hindi project. 192.76.8.88 (talk) 20:55, 18 June 2022 (UTC)
+OK much obliged NewsAndEventsGuy (talk) 20:58, 18 June 2022 (UTC)
+THANKS ALL, my main concern was to verify this isn't a sign of hacking or ID theft or some other nasty so I'll relax and go feed the chickens.NewsAndEventsGuy (talk) 20:58, 18 June 2022 (UTC)
+
+@NewsAndEventsGuy: You are correct that you didn't visit the Hindi Wikipedia but it's not about preloading. You edited Template:Supplement years ago here at the English Wikipedia. Yesterday a user imported the template with page history to the Hindi Wikipedia.[1] You are in the imported page history so your account was automatically created at the Hindi Wikipedia: hi:Special:Logs/NewsAndEventsGuy. Some wikis post welcome messages to users when their account is created. You were alerted of such a post. This has confused many users. I proposed to disallow such welcome messages at meta:Welcoming policy but the proposal hasn't received much attention. PrimeHunter (talk) 01:31, 19 June 2022 (UTC)
+That's flippin' insane. I did what I could and added a SUPPORT notvote there. I want these two hours back. Thanks for caring and explaining. NewsAndEventsGuy (talk) 02:04, 19 June 2022 (UTC)
+This may be a red herring(?), but try going to your Preferences > Notifications > and make sure "Show notifications from other Wikis" is not checked. Shantavira|feed me 08:35, 19 June 2022 (UTC)
+That's probably too drastic for most users. I find cross-wiki notifications useful most of the time. If you really don't want them then you can disable them at Special:GlobalPreferences#mw-prefsection-echo. If you only disable them at Special:Preferences#mw-prefsection-echo here at the English Wikipedia then you will still see them as soon as you visit any other Wikimedia wiki, e.g. Commons or Wikidata. PrimeHunter (talk) 09:28, 19 June 2022 (UTC)
+Thanks for the preferences tip. Maybe a cross wiki notification could come with a smallcase link to HELP:Crosswiki Notices that would walk people through what I've learned here? Thanks for the help all NewsAndEventsGuy (talk) 10:00, 19 June 2022 (UTC)
+@PrimeHunter Your proposed policy change says "if the user once edited a page..." I wonder if it would be clearer if the proposal said "edited a page (including a template)...". Still, you are right about it not getting much attention, sadly. 73.127.147.187 (talk) 02:14, 21 June 2022 (UTC)
+How to edit a timeline?
+The article Cradle of civilization includes near the bottom a section titled Timeline and a graph dating the founding civilizations of the world. I want to edit the graph but clicking the edit button, the timeline seems to have been put into the article by inserting only a template (if that is what it is called) of double curly brackets enclosing the words "World timeline." What is this? How does one go about editing the timeline? Smallchief (talk) 23:18, 18 June 2022 (UTC)
+
+hi @Smallchief and welcome to the teahouse! you can find the page at {{Worldhistory}}. this template generates the timeline so it can be imported to other pages without repeating the code, and updates all other pages when it is updated. happy editing! 💜  melecie  talk - 23:45, 18 June 2022 (UTC)
+Thanks. Smallchief (talk) 00:27, 19 June 2022 (UTC)
+@Smallchief: Melecie linked the wrong template. As you said, the code says {{World timeline}}. That means Template:World timeline is used. See more at Help:A quick guide to templates. This template uses the feature at Help:EasyTimeline syntax. PrimeHunter (talk) 01:11, 19 June 2022 (UTC)
+Thanks, for the alert response.Smallchief (talk) 09:13, 19 June 2022 (UTC)
+absolute pain. thanks for catching my mistake, happy editing! 💜  melecie  talk - 03:30, 21 June 2022 (UTC)
+Twin
+Hello,I would love to know if adding that a notable person has a twin sister is trivia? Example Noah Schnapp. I added that he has a twin sister named Chloe, another editor removed it saying I shouldn't add name of non notable minor,after debating we agreed on adding Noah has a twin sister only which I did and added citations. Another editor removed it saying is trivia ignoring the talk page which made me go straight to his user talk and question him. For an edit war not to begin I came here to know if adding that Noah Schnapp has a twin sister stand out as trivia? Thanks (also I don't know why "iii" are here I tried removing it but the won't go away) again Thanks Uricdivine (talk) 09:10, 19 June 2022 (UTC)iii
+
+@Uricdivine: @Joeyconnick is not ignoring you, they gave justification in their edit summary and responded to you on their talk page. Unless you have a better source than Instagram, the content about his twin should not be added. ––FormalDude talk 09:36, 19 June 2022 (UTC)
+Fwiw, I re-added twin sister, also commented at Talk:Noah_Schnapp#Family. Gråbergs Gråa Sång (talk) 10:33, 19 June 2022 (UTC)
+@Uricdivine Is this really important, worth spending time on? 73.127.147.187 (talk) 02:19, 21 June 2022 (UTC)
+@FormalDude your wrong he ignored the talk page and reverted my edit which made me go to his user talk page direct. And are you trying to say Noah doesn't have a twin sister?,if you are that is pure ignorance because everyone knows this including stranger things cast and crew and the whole fandom. You said I need reliable sources but any citations I upload about Noah having a twin sister editors will remove which made me go straight to Instagram to find Chloe Schnapp page and also a link to Noah Schnapp page where he celebrated his birthday on October 3. @ Gråbergs Gråa Sång Thank you. — Preceding unsigned comment added by Uricdivine (talk • contribs) 13:42, 19 June 2022 (UTC)
+
+How to format a textbox of a certain size
+I want to reformat a textbox I made. It looks fine on my Firefox browser but another experienced editor has mentioned a very likely problem, so I'll quote him:
+
+I noticed you used wikimarkup in the textbox to force line breaks. They look fine on my fullsize desktop. Do you already know how that will display on a wide range of devices using both the web and app versions of the en.wiki? Or how it gets crunched when other platforms echo our articles? I was just wondering if maybe such things are reasons to let the text line returns and box length-width change automatically to fit the users technology for best viewing? But like I said, I'm not really interested in learning the tech side of our markup magic, so I'll just leave you to wonder if the line breakmarkup should be reevaluated, or if its good as is. Thanks for caring. NewsAndEventsGuy (talk) 19:53, 18 June 2022 (UTC)
+
+The box, with my formatting, is at Attempts to overturn the 2020 United States presidential election#Reactions. Here it is:
+
+Dr. Eastman and President Trump launched a
+campaign to overturn a democratic election,
+an action unprecedented in American history.
+Their campaign was not confined to the ivory tower—
+it was a coup in search of a legal theory...
+If Dr. Eastman and President Trump's plan had worked,
+it would have permanently ended
+the peaceful transition of power,
+undermining American democracy and the Constitution.
+If the country does not commit to investigating and
+pursuing accountability for those responsible,
+the Court fears January 6 will repeat itself.
+-- Judge David O. Carter, United States district court[1][2]
+I suspect he has a point. What I need is a textbox that will look right for all browsers and cellphones. -- Valjean (talk) (PING me) 10:28, 19 June 2022 (UTC)
+
+ValJean, no reason to use right justified text, centering, defined font size and forced breaks. Its not a poem where the style is as relevant as the words. Removing all of that excess formatting creates a blob of text that adjusts to screen size and doesn't look like an attempt to overemphasize parts of the quote.Slywriter (talk) 11:59, 19 June 2022 (UTC)
+My focus is on just making a box at the right side of the screen. If I don't add line breaks, it becomes a box that extends from one side of the page to the other side. How can I keep it a box at the right (or left) side? -- Valjean (talk) (PING me) 12:19, 19 June 2022 (UTC)
+Here's what a plain quotebox looks like:
+
+Dr. Eastman and President Trump launched a campaign to overturn a democratic election, an action unprecedented in American history. Their campaign was not confined to the ivory tower—it was a coup in search of a legal theory... If Dr. Eastman and President Trump's plan had worked, it would have permanently ended the peaceful transition of power, undermining American democracy and the Constitution. If the country does not commit to investigating and pursuing accountability for those responsible, the Court fears January 6 will repeat itself.
+-- Judge David O. Carter, United States district court[1][2]
+
+I want a plain rightaligned smaller box of the size above. -- Valjean (talk) (PING me) 12:33, 19 June 2022 (UTC)
+
+Okay, now fixed using a width parameter. -- Valjean (talk) (PING me) 13:55, 19 June 2022 (UTC)
+@Valjean You entered the width in pixels. Is 300px what you want for all screen sizes, from cell phones to huge monitors? Isn't there a width percent parameter you could use? 73.127.147.187 (talk) 02:25, 21 June 2022 (UTC)
+Width percentage sounds good, but I have no idea how to do that. When I look at the page on my cellphone (Android) the box in any version spreads all the way across the screen, so it doesn't seem to make any difference. It doesn't look like on my pc. -- Valjean (talk) (PING me) 07:56, 21 June 2022 (UTC)
+@Valjean Try this: instead of '300px' in the width bit, write '30%' (or whatever % you desire) - that worked for me, at least. StartGrammarTime (talk) 09:52, 21 June 2022 (UTC)
+Dr. Eastman and President Trump launched a campaign to overturn a democratic election, an action unprecedented in American history. Their campaign was not confined to the ivory tower—it was a coup in search of a legal theory... If Dr. Eastman and President Trump's plan had worked, it would have permanently ended the peaceful transition of power, undermining American democracy and the Constitution. If the country does not commit to investigating and pursuing accountability for those responsible, the Court fears January 6 will repeat itself.
+-- Judge David O. Carter, United States district court[1][2]
+
+That works. Thanks! -- Valjean (talk) (PING me) 11:39, 21 June 2022 (UTC)
+
+References
+
+ Eastman v Thompson, et. al., 8:22-cv-00099-DOC-DFM Document 260, 44 (S.D. Cal. May 28, 2022).
+ Schmidt, Michael S.; Broadwater, Luke (April 10, 2022). "Jan. 6 Panel Has Evidence for Criminal Referral of Trump, but Splits on Sending". The New York Times.
+Can I make a page in my user namespace unvisible?
+Suppose I have a subpage in my user namespace. Can I make this subpage invisible to other users whatever the reason is? Regpath (talk) 11:24, 19 June 2022 (UTC)
+
+Don't think so, but you can hide it from webcrawling search engines (google, bing etc) by putting {{noindex}} at the top. NewsAndEventsGuy (talk) 11:27, 19 June 2022 (UTC)
+Regpath (ec) Hello and welcome to the Teahouse. No, that is not possible. All pages on Wikipedia are potentially visible to all. Some are harder to find than others, but all edits to all pages appear in the Recent Changes log. If you don't want other people to see something you are doing, do not put it on Wikipedia. 331dot (talk) 11:28, 19 June 2022 (UTC)
+Sometimes when I'm involved in WP:WIKIDRAMA with an editor who lacks competence in the interests of not pouring gas on the fire I'll try to prep a request for enforcement action but don't want the problem editor to see it until I'm ready for them to see it. So what I do is draft in my Sandbox, and hit preview to verify the markup, but actually save that work in an offwiki text editor. I also use the "nowiki" tags around their user names so they don't get notified if I slip and post my draft by mistake. If I do make that slip and really really care, I ask for that user page to get deleted and just hope the other party doesn't monitor my contribs and explode when they prematurely see a draft. At the same time,I resume work on a different userpage, but again only hitting preview and not "post" NewsAndEventsGuy (talk) 11:35, 19 June 2022 (UTC)
+This extension for VS Code also works quite well. 🐶 EpicPupper (he/him | talk) 20:30, 19 June 2022 (UTC)
+That's interesting thanks. I don't have brain capacity to read the tech manuals and deal with the steep learning curve. Are there any good training videos or something? NewsAndEventsGuy (talk) 21:01, 19 June 2022 (UTC)
+NewsAndEventsGuy, sidenote, but: I also use the "nowiki" tags around their user names so they don't get notified if I slip and post my draft by mistake. You might be interested by the template {{noping}}. TigraanClick here for my talk page ("private" contact) 15:38, 21 June 2022 (UTC)
+Yahoo, that's a big help thanks Tigraan! NewsAndEventsGuy (talk) 16:01, 21 June 2022 (UTC)
+Draft:Philipp Hochmair
+Hello, I have a very big request.
+
+I have been waiting for my draft - Draft:Philipp Hochmair - to be reviewed for almost four months and have revised it many times. Could someone please look at it and let me know if anything else is wrong so it doesn't get filed again.
+
+I would appreciate it very much. Pacsolis (talk) 17:45, 19 June 2022 (UTC)
+
+Pacsolis Hello and welcome to the Teahouse. As noted on your draft, it could take four months "or more" for a review. Reviews are conducted by volunteers in no particular order(it is not a queue). Please continue to be patient. 331dot (talk) 18:01, 19 June 2022 (UTC)
+Thank you for the quick reply.
+The waiting time is quite understandable and I am also quite patient. I just wanted to know if a quick look at my design reveals anything that is wrong, since I have already been rejected several times.
+Many greetings Pacsolis (talk) 18:09, 19 June 2022 (UTC)
+Pacsolis, I would guess your draft is good enough to be accepted if reviewed. But I am not a reviewer.
+I note that the first two references are to interviews or accounts of meetings with the subject, the third is just a listing, and the fourth is an "about us" section. So arguably none of these counts as an independent in-depth discussion. There are some better references later. Reviewers may be deterred from completing a review if they read the first four sources without finding reason to accept; so if you want to expedite the review process, you could consider removing some of those early references (with the content they support). You can always put the content back in again later. Maproom (talk) 19:37, 19 June 2022 (UTC)
+This draft has now been accepted and is at Philipp Hochmair. Cullen328 (talk) 22:05, 19 June 2022 (UTC)
+Thank you for your support so far. Now I have one - hopefully - last question.
+How to remove the template on the page?
+I have shown my point of view on the talk page. Pacsolis (talk) 07:38, 20 June 2022 (UTC)
+Moderator Complaint
+How does one go about making a complaint about a particularly rude moderator? Eagleye1001 (talk) 22:48, 19 June 2022 (UTC)
+
+@Eagleye1001: It doesn't look like anyone has been particularly rude to you. See Wikipedia:Staying cool when the editing gets hot. ––FormalDude talk 22:54, 19 June 2022 (UTC)
+@Eagleye1001: I concur that no one has been particularly rude to you. I think some frustration with your edits may have creeped into their comments, but they weren't so rude as to require some sort of action in my opinion. I'd let this go and heed the advice you are being given. 331dot (talk) 22:57, 19 June 2022 (UTC)
+Will do. Eagleye1001 (talk) 22:58, 19 June 2022 (UTC)
+Wikipedia does not have Moderators. Shantavira|feed me 08:43, 20 June 2022 (UTC)
+Off wiki wikibashing
+Do we care if editors bash the project and engage in activism against donations to the project? I mean, yeah, we probably care. But do any of the policies and guidelines address that behavior? (Disclaimer... although I'm presenting working in the area of US politics, the editor I ran across doing this on another platform is not.) NewsAndEventsGuy (talk) 01:37, 20 June 2022 (UTC)
+
+There's no real way to control what's done on other websites since none of Wikipedia's policies or guidelines would apply to such things as explained here and here. Even things like WP:BLP and WP:HARASSMENT only apply, in principle, to Wikipedia or Wikipedia user accounts; in other words, even if an account was blocked from editing Wikipedia, there would be no way to block the same person from editing other websites unless it was done by those websites themselves. Whether "you" care is entirely up to you, but personally I don't think there's anything that can be done via Wikipedia. Lots of people are unhappy with things Wikipedia and many often post about their unhappiness on other websites or on social media. There's not much that can be done from a Wikipedia perspective as long as such things stay off of Wikipedia. -- Marchjuly (talk) 02:08, 20 June 2022 (UTC)
+Thanks for taking the time to write all that. Pretty much what I thought. NewsAndEventsGuy (talk) 02:14, 20 June 2022 (UTC)
+@NewsAndEventsGuy: Notice that plenty of regular, well-respected editors engaged in activism against donations to the project on-wiki. That occurs when the WMF does the fundraising drive. Last year’s was so obnoxious that {{subst:HD/Donation}} was created; have a look at what it says. To my knowledge, none of those who used that banner have ever been at risk of any sanction. TigraanClick here for my talk page ("private" contact) 16:06, 21 June 2022 (UTC)
+Thanks, I've moved on. NewsAndEventsGuy (talk) 16:11, 21 June 2022 (UTC)
+Recording Artist And Dj looking for wikipedia page.
+Google search "corey croft music" pulls up all my releases but I'm looking for a wikipedia page. Coreycroft (talk) 04:08, 20 June 2022 (UTC)
+
+Hi @Coreycroft, and welcome to the Teahouse! Please use the article wizard when creating new articles; in particular, we highly discourage writing about yourself, and if you do so, you need to disclose a conflict of interest. Cheers, 🐶 EpicPupper (he/him | talk) 04:22, 20 June 2022 (UTC)
+Coreycroft, By starting here at the teahouse, you have saved your self some headaches. Namely, Wikipedia documents what reliable sources say (See WP:RS, WP:V). Notability is established through those reliable sources (WP:GNG,WP:NMUSIC). So, while google shows you exist, there is nothing from reliable sources for wikipedia to work with. The way this works is get famous and you can have a wikipedia article, not use Wikipedia to get famous (WP:PROMO). Finally, it is not always a good idea to have a wikipedia article, as you will have zero control of the content published (WP:AUTO).
+So now that you have saved yourself time and aggravation, use that time to make music (or to help edit wikipedia in other ways) and if/when the time comes that you meet the requirements for a wikipedia article, most likely someone else will create it. Slywriter (talk) 04:25, 20 June 2022 (UTC)
+A frequent misunderstanding at Wikipedia is that people assume that listing their output in music, film, TV, books, etc. is sufficient to establish notability, thus justifying an article. That type of information can be included in an article, but what is needed is published content about the person, created by people with no personal or paid connection to the person. (I oversimplify a bit there, but the guidance at WP:GNG and WP:NMUSIC applies.) David notMD (talk) 08:38, 20 June 2022 (UTC)
+Another frequent misunderstanding is that a Wikipedia article about you, if such a thing were to exist, would be in any way "your page". It would not belong to you, it would not be controlled by you, it should be based almost entirely on what people unconnected with you had published about you, not on what you or your associates say or want to say, it may end up with content that you don't like, and above all it may never be used for promotion of any kind. ColinFine (talk) 10:17, 20 June 2022 (UTC)
+How do I jump to a specific line in an article?
+For example I'd like to jump to Line 518 in the article Romance languages. How do I do that? DE100 (talk) 09:16, 20 June 2022 (UTC)
+
+hi @DE100 and welcome to the teahouse! unfortunately there is no easy way to do this (unless you are in chrome or edge and know how to encode a link to highlight a specific portion of an article, which I don't). but if you want to link to a section instead (which is possible and easy), you can link using hashes as such: WP:Teahouse#Creating Citations jumps you in the thread a few threads above. happy editing! 💜  melecie  talk - 09:40, 20 June 2022 (UTC)
+Thanks for the quick answer. DE100 (talk) 09:42, 20 June 2022 (UTC)
+There is no such thing as "line 518" in an article: people look at articles on different devices, on different browsers, and with different screen sizes: the lines get split differently. ColinFine (talk) 10:19, 20 June 2022 (UTC)
+It may not make any sense, but diffs do list line numbers, and the latest diff for Romance languages [2] does indeed say that it is for line 518, and it is independent of my display settings. Meters (talk) 10:33, 20 June 2022 (UTC)
+I have wondered the same thing. 73.127.147.187 (talk) 02:50, 21 June 2022 (UTC)
+DE100 Here's a short-cut trick for you: From the difference window, you can find a short phrase in the given line and search for it. (nothing in code or highlighted). That will jump you to that line. in the article, and the edit window. Good luck, GenQuest "scribble" 03:50, 21 June 2022 (UTC)
+@GenQuest Thanks. What do the line numbers actually refer to, internally? 73.127.147.187 (talk) 04:52, 22 June 2022 (UTC)
+@DE100: I believe they are just a holdover from early programming days, not sure if there is a purpose to them anymore. Probably ask a more tech-astute person about them. I've only ever seen them on print-outs of programming (esp.: BASIC, C, and CC). I think that was their main purpose, helpful for manually debugging old code. Not sure why they are still hanging around. GenQuest "scribble" 05:20, 22 June 2022 (UTC)
+Article Unable to Publish
+Here they say Draft:Ceno (rapper) that formal language issue but when i now added corrected one it goes to speedy delete. Gfxseries (talk) 13:08, 20 June 2022 (UTC)
+
+Gfxseries Hello and welcome to the Teahouse. We don't need an entire url- to link to another page on Wikipedia, simply place the target title of the Wikipedia page you want to link to in double brackets, like this, [[Draft:Ceno (rapper)]] . That draft was tagged with an author request deletion that you appear to have added, did you not intend to do that? 331dot (talk) 13:11, 20 June 2022 (UTC)
+Draft:Ceno (rapper) Gfxseries (talk) 13:12, 20 June 2022 (UTC)
+About User:Eric behavior of removing a large number of city's built-in climate data templates.
+I find his editorial behavior very puzzling, he thinks adding climate data to the article will affect the layout of the article. But that's not a valid reason for him to purge the climate class template, and there are plenty of articles with climate data to disprove his point, like Yerbogachen or Antipayuta. 迷斯拉10032号 (talk) 13:20, 20 June 2022 (UTC)
+
+It's not clear what the dispute here is, but if there is a dispute, this is not really an appropriate venue. You may try WP:AN or WP:ANI instead. ThadeusOfNazereth(he/they)Talk to Me! 13:58, 20 June 2022 (UTC)
+First article
+How do I save and return to my drafted article? Fijipedia (talk) 14:53, 20 June 2022 (UTC)
+
+Hi @Fijipedia, welcome to the Teahouse - all you should need to do is press the button that says "Publish". 174.21.23.32 (talk) 15:08, 20 June 2022 (UTC)
+You have an empty draft at Draft:Liverpool F.C 4-0 FC Barcelona. Be aware that there is mention of the game and its importance at 2018–19 UEFA Champions League knockout phase.David notMD (talk) 17:33, 20 June 2022 (UTC)
+Date time template
+I want to put a template that displays the day month and year such as June 20 2022 in an article in my user space. I found a template that uses only numbers named Today ymd at Template:Today ymd but I want to insert words and not numbers. Is there a way to create a template like this? ScientistBuilder (talk) 15:25, 20 June 2022 (UTC)
+
+I think there might be a way to use Javascript but I'm not sure how to make a script with javascript programming on my own. ScientistBuilder (talk) 15:26, 20 June 2022 (UTC)
+@ScientistBuilder, the Template:Date provides the current date. Kpddg (talk) 15:32, 20 June 2022 (UTC)
+I found a template
+10:42 am on 23 June 2022
+but it doesn't change when I reload the page. ScientistBuilder (talk) 15:32, 20 June 2022 (UTC)
+You might need to purge the page. Kpddg (talk) 15:38, 20 June 2022 (UTC)
+Repeating a topic on a talk page?
+(I think this is the correct place to ask about this? If not, my bad)
+
+I have come across a book with a summary that leaves out significant portions of the plot. So much that I am uncomfortable adding it in. I went to the talk page to bring it up, but saw that someone else already has, but in 2010. Would it be acceptable to bring it up again? There is not much else on the talk page. Natasha862 (talk) 15:33, 20 June 2022 (UTC)
+
+Yes, you can definitely raise this again on the talk page. You can do it yourself as well. Kpddg (talk) 15:35, 20 June 2022 (UTC)
+Hello, Natasha862,and welcome to the Teahouse. It is usually a judgment call whether to edit an article directly, or to discuss it first on the talk page. Generally, if somebody else has already suggested a change on the talk page that you agree with, and nobody has disagreed, you're pretty safe in making the edit yourself. The worst that can happen is that somebody else comes along and reverts, and then you can discuss it further on the talk page. See WP:BRD. ColinFine (talk) 15:44, 20 June 2022 (UTC)
+@Natasha862 Are you planning to use a summary that is included in the book, or that someone else wrote? If so, there are copyright concerns. 73.127.147.187 (talk) 02:53, 21 June 2022 (UTC)
+No. I would obviously write it myself. Natasha862 (talk) 13:53, 21 June 2022 (UTC)
+@Natasha862 OK, I wasn't completely sure from your original post. Thanks. 73.127.147.187 (talk) 04:54, 22 June 2022 (UTC)
+What do I do here?
+KibolLP keeps changing a few things without a clear source, they seem to have been warned about this before on their talk page but they aren't responding. They're randomly changing dates on various articles and I can't tell what for. Among Us for POTUS (talk) 18:02, 20 June 2022 (UTC)
+
+Oops, sorry, they responded on the talk page, it seems fine Among Us for POTUS (talk) 18:09, 20 June 2022 (UTC)
+Question About Independent Sources
+This is a reply to a question that I was asked on my talk page about a source analysis table that I had provided in an AFD, and I would like the comments of other experienced editors. The question was asked at https://en.wikipedia.org/wiki/User_talk:Robert_McClenon#Just_wish_to_understand_a_little . I had included a source analysis table at Wikipedia:Articles for deletion/Warina Hussain, and was asked what is meant by Independent Sources. That is discussed in the guideline on Independent Sources. Since the article in question is about a person, the answer to the question is really (a), whether the source is connected directly or indirectly to the actress. A source that is connected to the entertainment industry in general may be positive, neutral, or negative about the actress. Sources generally associated with the entertainment industry may in fact be more likely to know about her, so being associated with the entertainment industry does not make a source non-independent, unless it is associated with the subject or her agent or agency. A source that is in the business of promoting the Indian cinema industry might not be independent. Option (c), about political outlook, is not really about the independence of sources, but about the bias of sources, which is a different related and important question. That is my thought. Do other experienced editors want to comment? Robert McClenon (talk) 18:23, 20 June 2022 (UTC)
+
+Hello, Robert McClenon. There are many entertainment industry sources that are both independent and reliable. So, a focus on the entertainment industry does not invalidate a source. I am not sure how political bias affects entertainment coverage. If reliable sources say different things about an actor based on different political affiliations, that should be reflected in a neutral article. Paid news in India explains the difficulties of finding truly independent news coverage of Indian topics. Cullen328 (talk) 18:36, 20 June 2022 (UTC)
+Wow, @Cullen328, I didn't know we had that article! I knew we couldn't trust Indian sources for news about the entertainment industry. Hadn't realized it extended to basically all living people and current businesses. That sucks. valereee (talk) 18:42, 20 June 2022 (UTC)
+Hello, Valereee. Also worth reading is The Times of India#Paid news. Cullen328 (talk) 18:47, 20 June 2022 (UTC)
+Jaysus. valereee (talk) 18:54, 20 June 2022 (UTC)
+Thank you, User:Cullen328. I forgot to notify User:Bookku, who had asked me originally. That confirms my doubts about Indian entertainment media. Robert McClenon (talk) 19:23, 20 June 2022 (UTC)
+ToI isn't even entertainment media. They're a newspaper of record in India. valereee (talk) 19:47, 20 June 2022 (UTC)
+This, unfortunately, means that it is often difficult to find reliable sources about people in India, because so much of the coverage is likely to be untrustworthy. The Hindu is a reliable newspaper of record in India, but the Times of India is not. Robert McClenon (talk) 00:51, 21 June 2022 (UTC)
+See WP:TOI. Kpddg (talk) 10:34, 21 June 2022 (UTC)
+Article Review
+Citation has been added to draft:Ceno (rapper) so kindly move it to article space. Gfxseries (talk) 18:28, 20 June 2022 (UTC)
+
+That's not how this works, go back and resubmit it through the Article Creation process. I'll say though that it appears that all the "citations" you added are just to discography-type pages, apple.com, etc... That's not gonna cut it. ValarianB (talk) 18:34, 20 June 2022 (UTC)
+Hello, Gfxseries. That draft in its current form has zero chance of being accepted. The references are pretty much worthless. Please read and study Your first article. Cullen328 (talk) 18:40, 20 June 2022 (UTC)
+STATUS: Declined, then Rejected, and miscellany-nominated for deletion. Paid editors are expected to demonstrate competence. The draft has no reliable source references. David notMD (talk) 19:22, 20 June 2022 (UTC)
+"... identifying with the blue side of the spectrum crisp." I just don't understand the kids' lingo these days. 73.127.147.187 (talk) 03:10, 21 June 2022 (UTC)
+Article Draft Declined (Need help)
+Hi there,
+
+I created an article for UBC Faculty of Forestry and it got declined when I submitted it for reviewing. The reason is "This submission's references do not show that the subject qualifies for a Wikipedia article." It would really help me if anyone of you could help me figure out how I should fix it.
+
+Thank you
+
+Draft:UBC Faculty of Forestry Dhritibansal (talk) 19:12, 20 June 2022 (UTC)
+
+Welcome to The Teahouse, articles are based on what independent sources have reported in significant detail about a topic your draft has zero independent sources. You cannot use their own website to establish notability. Theroadislong (talk) 19:17, 20 June 2022 (UTC)
+Hello, Dhritibansai, and welcome to the Teahouse. Please note that Wikipedia is not interested in what the subject of an article says or wants to say about themselves, or what their associates say about them. Wikipedia is only interested in what people who have no connection with the subject, and who have not been prompted or fed information on behalf of the subject, have chosen to publish about the subject in reliable sources. ColinFine (talk) 19:34, 20 June 2022 (UTC)
+United States Football League (2022)
+Symbol redirect vote2.svg Courtesy link: United States Football League (2022)
+I removed the word minor, according to this article (link: https://www.ctinsider.com/business/article/Why-Stamford-s-NBC-Sports-is-broadcasting-a-new-17087690.php) - Jon Miller, NBC Sports' president of programming, “but this is not a developmental league. This is a competitive, professional league that will be designed to be its own league and have its own identity." Therefore the "rebooted" USFL is not a developmental, or in that case, minor league. Hope that helps. 2600:8805:AA00:730:E586:33D2:3350:28EC (talk) 19:42, 20 June 2022 (UTC)
+
+Unfortunately, "Catfurball" kept adding the word minor. I gave the link above and thought that was sufficient that it's a major league with its own identity or platform. — Preceding unsigned comment added by 2600:8805:AA00:730:E586:33D2:3350:28EC (talk) 19:44, 20 June 2022 (UTC)
+
+Don't engage in an edit war. You and @Catfurball: should discuss this on the article's talk page. RudolfRed (talk) 19:49, 20 June 2022 (UTC)
+Alternative article source link
+I want to add a pdf link to a source but I already have a URL. Is there a way to add a second URL? ScientistBuilder (talk) 20:18, 20 June 2022 (UTC)
+
+Can you be more specific? What kind of url do you have now? Ruslik_Zero 20:39, 20 June 2022 (UTC)
+@ScientistBuilder I thought that PDFs are generally not considered to be reliable, published, verifiable sources. Are you using a PDF as a source? 73.127.147.187 (talk) 03:19, 21 June 2022 (UTC)
+What is a host
+a host is a person who helps people get more information about Wikipedia pages 41.116.48.52 (talk) 21:02, 20 June 2022 (UTC)
+
+hi ip user and welcome to the teahouse! we hosts help new editors answer questions regarding Wikipedia and editing it, not giving information about articles in the encyclopedia (although we do often give information about the website's policies, which are usually in pages prefixed with Wikipedia:). for that, you might want to try out the Reference desk. happy reading! 💜  melecie  talk - 01:12, 21 June 2022 (UTC)
+Writing an article about a company
+Hello, i have started a draft for Alpha High Theft Solutions, i'm just wondering if it's ok since i'm not affiliated with the company in any way and also wondering if the sources are WP:RS
+
+Sincrely OGWFP (talk) 21:26, 20 June 2022 (UTC)
+
+@OGWFP: It is very much ok that you are not affiliated with the company. Your sources seem to be from the company website, instead they need to be from independent sources. I suggest you check out WP:YFA for advice on how to create an article. RudolfRed (talk) 21:51, 20 June 2022 (UTC)
+Roblox Games not having an article.
+I searched up Roblox on Wikipedia and it shows some description. When I looked at the templates, there is an article about "Adopt Me!" Seeming, it is an only article about an Roblox game. But for some reason, there aren't articles about other Roblox games. That includes Work at the Pizza Place, Welcome to Bloxburg, Speed Run, and Zombie Rush, even they are played by tons of users. Since this game has a huge fanbase and popularity, why not create articles about each Roblox game. That would inform readers about the content and the gameplay. Just like other console games, Roblox is about new information and I think there should be a list about each game created. Can you explain why Roblox games don't have an article except Adopt Me? Thank you for answering my question and my curiosity. -- 2601:205:C001:EA0:CD77:605F:EFF3:6FE9 (talk) 00:51, 21 June 2022 (UTC)
+
+hi ip user and welcome to the teahouse! popularity isn't the reason why games (or anything for that matter) get an article. articles are created only if they have significant coverage in reliable sources| such as news articles, which Adopt Me! has had. if you could find these sources and establish their notability, an article could be created. happy reading! 💜  melecie  talk - 01:09, 21 June 2022 (UTC)
+Why many Roblox Games except for Adopt Me, do not have a significant coverage in reliable sources| such as news articles? Why popularity does not determine notability in Roblox Games? Any further information? 2601:205:C001:EA0:CD77:605F:EFF3:6FE9 (talk) 01:16, 21 June 2022 (UTC)
+Adopt Me Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · NYT · WP Library
+Work at the Pizza Place Find sources: Google (books · news · scholar · free images · WP refs) · FENS · JSTOR · NYT · WP Library
+let's use these as an example. click the News link from here for each of them, which would be the most relevant one to use here (searching for books and scholar would be more appropriate for scholarly/scientific topics). Adopt Me! has gotten some coverage documenting its life and development, while Work at the Pizza Place seems to only be covered in sources documenting opinions on what the best Roblox games are (plural), which isn't enough to establish notability.
+additionally, something can be popular but not have enough reliable sources to build an article with, which are required in an article. plus popularity is also a very subjective and thoughts on whether something is popular (especially on a global scale) may vary from person to person. so instead of dealing with whether something is popular or not, we deal with whether something has enough sources to back up its existence and whatever is said in the article. happy reading! 💜  melecie  talk - 01:39, 21 June 2022 (UTC)
+Explain that while Wikipedia is about reliable sources, why popularity is also a very subjective that may vary from person to person? Does merchandise count as a notability since there are real-life toys about Roblox? -- 2601:205:C001:EA0:CD77:605F:EFF3:6FE9 (talk) 01:43, 21 June 2022 (UTC)
+Hi there! You may be interested in reading Wikipedia:Notability (video games) to learn about the types of independent reliable sources Wikipedia requires for an article about a video game. Happy editing! GoingBatty (talk) 02:25, 21 June 2022 (UTC)
+Ok, thanks for giving me new information! 2601:205:C001:EA0:CD77:605F:EFF3:6FE9 (talk) 02:34, 21 June 2022 (UTC)
+I don't know whether you noticed this, but there are brief descriptions of various games at List of Roblox games. Deor (talk) 11:28, 21 June 2022 (UTC)
+Ok, I didn't see, but what about additional games that are added to this list of Roblox games? 2601:205:C001:EA0:FD7B:9157:D214:9AF5 (talk) 07:46, 22 June 2022 (UTC)
+Passive voice
+How do I improve the neutrality? I can’t think of a simpler way to convey the information about the subject. Draft:Brana Dane ChrisWallace22 (talk) 01:22, 21 June 2022 (UTC)
+
+For a start, ChrisWallace22, you could change "supermodel" (i.e. "model you might have heard of") to "model". However, the much bigger problem with this draft, in my view, is that it doesn't show how she satisfies WP:PERSON. -- Hoary (talk) 09:23, 21 June 2022 (UTC)
+Publishing My First Article
+Hello,
+
+I have been waiting to receive feedback on an article that I wrote and published back in March 2022 titled David Y. Choi. I am confused on how to check the status of that article or find how to read the feedback whether it was approved or not, and if published how to find it online. Any help from anyone who can point me in the right direction would be really appreciated! Thank you.
+
+Link to the page I am referring to: https://en.wikipedia.org/wiki/Draft:David_Y._Choi_Ph.D.
+
+Best,
+
+Alex Villanueva Alex Villa 13 (talk) 03:30, 21 June 2022 (UTC)
+
+Symbol redirect vote2.svg Courtesy link: Draft:David Y. Choi Ph.D.
+hi @Alex Villa 13 and welcome to the teahouse! your draft has not been submitted yet. I've added the submission template to your draft, and if you feel like it's ready you can click the blue submit button. happy editing! 💜  melecie  talk - 03:38, 21 June 2022 (UTC)
+Dan arndt declined it, on the grounds that it "appears to be a duplicate of another submission, David Y. Choi, which is also waiting to be reviewed". But the latter isn't, and I think wasn't, waiting to be reviewed, and it seems inferior, other than for its lack of the superfluous "Ph.D." in the title. (Me, I'd decline either draft, for lack of evident notability of the subject.) -- Hoary (talk) 11:15, 21 June 2022 (UTC)
+Not-RSs and See also sections
+Is it appropriate to put non-reliable sources in the "See also" section of an article? I've found blogs and news sites that have interesting information I can't use in the article I'm adding to, but it's a shame to waste them. -- Pete Best Beatles (talk) 05:18, 21 June 2022 (UTC)
+
+Pete Best Beatles, would you please give us examples of these sources you wish to use?--Quisqualis (talk) 05:21, 21 June 2022 (UTC)
+Thanks for responding. See my response to the answer below. Pete Best Beatles (talk) 12:00, 21 June 2022 (UTC)
+@Pete Best Beatles "See also" is for links to WP-articles, I'm guessing you meant the WP:EL (guidance there) section. Gråbergs Gråa Sång (talk) 07:06, 21 June 2022 (UTC)
+You are correct, that's exactly what I wanted, I just didn't know it at the time! Point #4 in sub-section "Links to be considered" (under Section "What to Link") answers my question perfectly. Thanks. Pete Best Beatles (talk) 11:59, 21 June 2022 (UTC)
+Please help me to edit Kurd-related articles!
+Since several years I write regularly in Swedish language Wikipedia and now and then I have also made some edits in enwp. Now I work with updating several Swedish articles on issues related to Kurdish issues. I have good help from what is written in enwp but I also find some things in need of furhter editing. BUT: I am not allowed to do this, as I am not autoconfirmed in enwp. Please help me! Administrators at svwp can surely confirm that I am serious. Best regards. --Chandra Varena (talk) 07:48, 21 June 2022 (UTC)
+
+hi @Chandra Varena and welcome to the teahouse! you are already autoconfirmed, so you may edit semiprotected articles. happy editing! 💜  melecie  talk - 08:57, 21 June 2022 (UTC)
+Thank you! Chandra Varena (talk) 09:02, 21 June 2022 (UTC)
+Hi @Chandra Varena, welcome to the English Wikipedia. I have just reverted one of your edits, because the addition was unsourced and you removed something sourced. But I'd be really glad to see you around in updating Kurdish articles or also creating new ones. I have seen Swedish MP Serkan Köse of Kurdish descent doesn't have an article yet. Might make a good DYK. Paradise Chronicle (talk) 13:07, 21 June 2022 (UTC)
+Can Someone help with William J LaVarre?
+I started this page https://en.wikipedia.org/wiki/Draft:William_J._LaVarre when I learned he was the brother of John Merton and an interesting fellow. My eyes are bad and I'm having a hard time doing the referencing correctly when some of the most interesting references are in Google Books. Those URL addresses are beyond me. All help welcome!! JRW03 (talk) — Preceding undated comment added 11:29, 21 June 2022 (UTC)
+
+Hello, @JRW03, and welcome to the Teahouse! The best way to find editors to help develop an article or draft is by contacting a WikiProject. There are many WikiProjects with different areas of interests, some more active than others, and if your lucky, someone might be willing to help if you post a notice on the project's talk page. Good luck with the draft, and happy editing! HenryTemplo (talk) 11:49, 21 June 2022 (UTC)
+How to remove the blue external link icon
+I was reading about the Austronesian languages when i came across an external link, The link led me to a wiktionary page, i hovered over the link thinking it was a Wikipedia article because it didn't have the blue external link icon when you link it, the link was auster. You can clearly see the blue external link icon to the right of the link. However, when i saw the link it didn't have the icon, so how did he remove it? Leahnn Rey (talk) 13:07, 21 June 2022 (UTC)
+
+hi @Leahnn Rey! you can link to other Wikimedia projects, such as Wiktionary, through the use of inter-wiki links. for example, if you want to link to the definition of "vivacious", you would use [[:wikt:Vivacious|]], which outputs as Vivacious. (note the colon at the start, see Colon trick, and the pipe at the end, see Pipe trick, both are optional except for colons in inter-language links). similar things can be done with other projects, such as:
+[[:commons:Main Page|]]
+...which displays as a link to Wikimedia Commons' Main Page
+[[:ja:メインページ|メインページ|]]
+... which displays as a link to Japanese Wikipedia's Main Page: メインページ|
+happy editing! 💜  melecie  talk - 13:17, 21 June 2022 (UTC)
+Huh, thanks @Melecie:... didn't know about the pipe trick, and I've been on WP a while... learn something new every day - RichT|C|E-Mail 21:50, 21 June 2022 (UTC)
+quite a lot don't know about the pipe trick, oftentimes when I see it mentioned that's the first time someone, somewhere has heard of it. don't worry, you're just one of today's lucky ten thousand. happy editing! 💜  melecie  talk - 00:08, 22 June 2022 (UTC)
+ABCDE - CD Ripper Page is missing
+Cannot get a page that was previously accessible? Help! 82.16.216.90 (talk) 13:53, 21 June 2022 (UTC)
+
+Could you specify which article you are referring to? Kpddg (talk) 14:06, 21 June 2022 (UTC)
+This? CD ripper AdmiralAckbar1977 (talk) 14:38, 21 June 2022 (UTC)
+@AdmiralAckbar1977, the IP is referring to a specific software package - ABCDE (A Better CD Encoder) - which was indeed listed on that page at one point, but I can't find a deleted article. There's a deWiki article and a Wikidata entry. 199.208.172.35 (talk) 14:46, 21 June 2022 (UTC)
+@199.208.172.35 Ah ok, could it have been moved to a draft? AdmiralAckbar1977 (talk) 14:49, 21 June 2022 (UTC)
+Nope, I found the AfD: Wikipedia:Articles for deletion/ABCDE. 199.208.172.35 (talk) 14:50, 21 June 2022 (UTC)
+Hi fellow IP user, welcome to the Teahouse. If you follow the link I posted above, you'll see that the article was deleted last December because the subject did not seem to meet our notability standards (see WP:NSOFT for further explanation). 199.208.172.35 (talk) 15:00, 21 June 2022 (UTC)
+Template:Politics sidebar
+Hello, I have noticed that in the template “Politics sidebar”, there are two disciplines that could be added: Policy analysis and Political theory. I would add it myself, but I am not an autoconfirmed extended user in the english wikipeadia. Thank you very much. Best regards, Przelijpdahl (talk) 17:04, 21 June 2022 (UTC)
+
+Hello, Przelijpdahi. The place to suggest this is at Template talk:Politics sidebar. ColinFine (talk) 18:38, 21 June 2022 (UTC)
+tnks buddy! Przelijpdahl (talk) 21:43, 21 June 2022 (UTC)
+Need to fix title
+I created an article for The Good Mother 2013 film; I wanted to correct the title of the article to have brackets around "2013 film" so that it would be consistent with other disambiguated movie articles on Wikipedia, but when I tried, I got an error message saying that I couldn't because of a redirect issue to the general phrase "good mother". I don't know how to fix the article's title now. I was wondering if any benefactor with some free time would mind helping me with this. I'd be really grateful for the help. 😇😇😇 PetSematary182 (talk) 17:10, 21 June 2022 (UTC)
+
+Yes, there is already a redirection page at The Good Mother (2013 film). You need an admin to move over a redirect: WP:RM is the place to ask. ColinFine (talk) 18:41, 21 June 2022 (UTC)
+FYI that it looks like it's done now. TimTempleton (talk) (cont) 23:36, 21 June 2022 (UTC)
+Tag:reverted
+Greetings, I have been editing some articles and some of the changes I made stay but some modifications get removed. On my contribution list, next to the modifications I made says its reverted. Is there any way I could get in touch with the editor that removed it and ask him why he did it? ChasingLittlePrince (talk) 19:00, 21 June 2022 (UTC)
+
+Hi, ChasingLittlePrince, and welcome to the Teahouse! Editors will often explain why they reverted an effort in the edit summary, so you can check there first (look in the page history). If you still have questions, you can ask the user on their talk page. This is usually found in a link in parentheses after the editor's username, like this: Example (talk). Happy editing, Perfect4th (talk) 19:10, 21 June 2022 (UTC)
+Assistance requested
+Hello, I am trying to create a page for Kimberly Hardin. It has gotten rejected stating that I am a 'paid contributor', but I am not.
+
+Can someone please assist? Media updates2021 (talk) 19:56, 21 June 2022 (UTC)
+
+I declined your draft because it has zero sources. In order to demonstrate notability, you need to provide multiple references to in-depth articles written about him in unrelated, independent journals, magazines, books or online. Theroadislong (talk)
+Media updates2021, Wikipedia is an online encyclopedia with articles written about subjects that have received significant coverage in multiple reliable independent secondary sources (WP:N, WP:RS). This is Wikipedia's definition of notable. After looking at the draft on Kimberly Hardin I can see that @Theroadislong was justified in rejecting the article because it truly has no referenced sources (See WP:OR and WP:CITE). I would recommend you read over WP:YFA and then decide if you think you can find these reliable sources on Ms. Hardin. Make sure to properly cite any source in the article prior to resubmitting if that is your conclusion. --ARoseWolf 20:12, 21 June 2022 (UTC)
+Media updates2021, as well as being unreferenced, your draft also violates the Neutral point of view. Sentences like Her films are known to not just garner commercial success, but crossover success as well as critical acclaim are not acceptable in an encyclopedia article. Cullen328 (talk) 21:30, 21 June 2022 (UTC)
+Small note - it has been Declined, which is less severe than Rejected. For a living persion bio, everything needs to be referenced. Neither her own website not IMBd count. David notMD (talk) 22:36, 21 June 2022 (UTC)
+deletion log
+how can I see the deletion log on a page? Jenhawk777 (talk) 21:31, 21 June 2022 (UTC)
+
+Go to Special:log/delete, and enter the name of the deleted page in the "Target" box. ColinFine (talk) 21:42, 21 June 2022 (UTC)
+It is hidden so I guess only the admin can access it. I will message them. Thank you! Jenhawk777 (talk) 21:56, 21 June 2022 (UTC)
+What to do with patent nonsense that has a source?
+There's a paragraph on doujinshi convention that is a load of patent nonsense. Anyone who has even the slightest amount of knowledge on the subject can clearly see this. But the paragraph has a single source (clearly written by someone who has no idea what they're talking about) used to justify it, and another user is opposing its removal as a result. The material is so outlandish and ridiculous that I do not think I can find a source that would be able to refute it, because it's such patent nonsense that nobody would probably think of having to refute something like this. What are the options here? Should clear misinformation be left up, simply because someone published a load of nonsense 10 years ago and nobody bothered to fact check them? 2404:2D00:5000:701:B9D2:5B05:FC57:BA04 (talk) 21:46, 21 June 2022 (UTC)
+
+Actually, after checking, it turns out that the site being cited is listed as an unreliable source, so I'll be removing the offending material. That being said, I would still like to know how situations like this should be handled, when something is clearly wrong but has sources. This seems to be very common with non English language topics on Wikipedia. 2404:2D00:5000:701:B9D2:5B05:FC57:BA04 (talk) 21:57, 21 June 2022 (UTC)
+Someone tried reverting my edits claiming that the source was "published by a university". Given the topic material I find it highly doubtful that anyone knowledgeable about the subject vetted the paper, if at all, given how it was being used as a source for statements that were, again, patent nonsense. I cannot find any way to access the paper itself to verify if the patent nonsense is actually in the paper. How should this situation be approached? 2404:2D00:5000:701:B9D2:5B05:FC57:BA04 (talk) 22:17, 21 June 2022 (UTC)
+@2404:2D00:5000:701:B9D2:5B05:FC57:BA0: Japanese art conventions are a bit out of my wheelhouse, but after a cursory reading, the issue isn't to me as outlandish and ridiculous as you make it seem in this post. I see you started a discussion on the talk page. Talk:Doujinshi convention#"How it works" section That was the right thing to do. If the source is clearly false, it shouldn't be too hard to find another source that contradicts the info. With incorrect info published in notable journals, a notable instance being the sad history with vaccines and autism, every case is different. Discuss, and if you can't get consensus, see Wikipedia:Dispute resolution. TimTempleton (talk) (cont) 23:26, 21 June 2022 (UTC)
+It really is as outlandish as I stated: The problem seems to be that editors on Wikipedia do not have the knowledge needed to deal with the topic either. I am Japanese and someone who has participated in such conventions for years. The crux of the problem with the statement I have issue with is that it states that some people have permission from "erotic game producers" to do something. The entire point of the these conventions is that nobody needs permission to do anything at all, and the "erotic game producers" thing is an absolute non-sequitur with no relevance. 2404:2D00:5000:701:B9D2:5B05:FC57:BA04 (talk) 23:44, 21 June 2022 (UTC)
+If you don't have access to the source, you can ask at WP:RX for someone to look it up for you. RudolfRed (talk) 23:31, 21 June 2022 (UTC)
+How to add the text on image
+Hi, I am new to wikipedia, i am writing a biography and I would like to know how do i add that text on an image -
+
+name
+
+age
+
+website
+
+credentials
+
+Thank You Nomonde Danisa (talk) 23:53, 21 June 2022 (UTC)
+
+Well, you might need to visit Articles for Creation help desk for assistance. -- 2601:205:C001:EA0:C88F:FB3C:BF32:6730 (talk) 00:06, 22 June 2022 (UTC)
+Hi @Nomonde Danisa. I see that you have submitted a draft. It looks as though you figured out how to add text to an image frame in the end. AFC editors will likely have some feedback for you on this submission - namely the neutrality and objectivity of the article. If you have any conflict of interest with this subject, or if you have received any payment for its creation, please disclose these? Thanks. MaxnaCarta (talk) 00:12, 22 June 2022 (UTC)
+Hi Nomonde Danisa. In addition, to what's been already posted above, there's an issue with one of the images you uploaded to Commons that you're going to need to resolve if you want to avoid the file being deleted. You can find out more about this by checking your Commons' user talk page. Bascially, you're going to need to provide some way for formally verifying that the image uploaded has been released as licensed since the website hosting the image is claiming copyright ownership over the content appearing on it.
+Another thing that you can help clarify is whether you're connected personally or professionally to Vanessa Farsadaki (the person you're trying to create an article about). If, by chance, you're connected to her in someway, you should take a close look at Wikipedia:Conflict of interest and Wikipedia:Paid-contribution disclosure to assess whether either page applies to your particular situation. Being connected to Farsadaki in some way doesn't mean a Wikipedia article about her can be created; it does, however, mean that you're going to need to carefully follow relevant Wikipedia policies and guidelines if you're going to be the one trying to create the article. It's very important that you're as transparent as possible regarding any connection or relationship you may have with Farsadaki. Since Wikipedia is a collaborative editing project in which are participants are volunteers, experienced users are sometimes more willing to help others when they feel they're not being being misled or otherwise deceived. So, being transparent about any connection you may have will not only help you avoid problems, but it will also make it easier for others to want to help you if you do run into problems. -- Marchjuly (talk) 01:09, 22 June 2022 (UTC)
+...anyway, regarding your question it seems like you may be looking for infoboxes, in your case {{infobox doctor}}. happy editing! 💜  melecie  talk - 01:46, 22 June 2022 (UTC)
+@Nomonde Danisa For the image, in plainer language, you are claiming that you took the picture. Did you take that picture yourself, with your own camera? 73.127.147.187 (talk) 07:14, 22 June 2022 (UTC)
+And remove all of the external links from the article text. - X201 (talk) 10:11, 22 June 2022 (UTC)
+Big Clean Up
+Hi,
+
+I was wondering where I should go to get more professional help a cleaning up a really messed up article that hasn’t been touched since 2013 (it”s written like WikiHow :/ ). The article in question is “new business developments”, which is written more like a guide or personal essay than an encyclopedic documentation… thanks.
+
+Tschau, Dwightol102 (talk) 03:35, 22 June 2022 (UTC)
+
+Here is the link: New business development. Karenthewriter (talk) 03:51, 22 June 2022 (UTC)
+@Dwightol102 - for starters, the first two sentences are a direct copyvio from [3]. This thing is probably a candidate for outright deletion. Dr. Duh 🩺 (talk) 07:18, 22 June 2022 (UTC)
+@Dwightol102@Doctor Duh I have just cleared the Talk page for violating WP:NOTFORUM. -- Roger (Dodger67) (talk) 12:42, 22 June 2022 (UTC)
+Either delete (it doesn’t seem like an article someone would actually need; they could use dictionary.com or whatever to find it out) or if you think it’s completely necessary so Wikipedia doesn’t crumple to ashes like so many football stadiums someone can rewrite it…
+Hmph, Dwightol102 (talk) 03:19, 23 June 2022 (UTC)
+How to unprotect a protected page
+Hi, I am looking to unprotect the following page https://en.wikipedia.org/wiki/Newgen_Software which has been protected due to promotional content. I wish to write content from a neutral perspective, backed by references. Please unlock the following page I have also submitted the request https://en.wikipedia.org/wiki/Wikipedia:Requests_for_page_protection/Decrease
+
+Regards Neeshu30 (talk) 06:21, 22 June 2022 (UTC)
+
+hi @Neeshu30 and welcome to the teahouse! you seem to have found the appropriate place for article unprotection, and an admin would be there shortly (or whenever they are free) to determine if the article should be unprotected. happy editing! 💜  melecie  talk - 06:32, 22 June 2022 (UTC)
+@Neeshu30 It's not actually a "protected page"; the page was deleted, and the page name was "salted" (the name was protected) to prevent an article by that name being recreated, in April 2021 (if I am reading the page log correctly). 73.127.147.187 (talk) 07:20, 22 June 2022 (UTC)
+The next step is to contact the Admin who deleted/salted the draft. David notMD (talk) 09:41, 22 June 2022 (UTC)
+Delete my Draft
+Hi, I want to delete a draft that couldnt pass the approval to be on the mainspace. How can I do it? Any piece of advice? SDC3021 (talk) 07:24, 22 June 2022 (UTC)
+
+Hi @SDC3021, welcome to the teahouse. I've tagged it for speed deletion under WP:G7, it should be deleted shortly.Justiyaya 07:42, 22 June 2022 (UTC)
+whoops sorry, I didn't check the edit history. Since you are not the only contributor to the draft, it is not elegable for author requested deletion. However, it will be deleted in 6 months (if noone edits it). Justiyaya 07:41, 22 June 2022 (UTC)
+Oh, I see. So after six months it will be deleted automatically or do I need to request again? Thank you SDC3021 (talk) 01:20, 23 June 2022 (UTC)
+@SDC3021: What normally happens is that a semi-automated message will be sent to editors who have worked on the article (though I don't know if the messengers choose all the editors or just the primary ones who've contributed the most) at the 5-month inactivity mark warning them that the draft will be deleted soon. After that the draft will be deleted once it hits the six-month mark with no activity. —Tenryuu 🐲 ( 💬 • 📝 ) 01:30, 23 June 2022 (UTC)
+Writing about emerging artists
+I am writing about emerging artists who have done pretty well in their fields. any suggestions! Anuaurora (talk) 09:20, 22 June 2022 (UTC)
+
+@Anuaurora, welcome to the Teahouse! A few points.
+Writing a WP-article that "sticks" without any previous WP-experience is hard. Consider just editing some topics that interest you for a while, and check WP:TUTORIAL. Learning how to add references properly is essential, especially if you write about living people, WP has rules about these things. As an example, Oscar Ukonu is an article I wrote. It's pretty basic, but not glaringly WP-awful. Note how sources are used, depending on what they are and say. Your task as a Wikipedian is not to sell your subject, it is to summarize what independent sources (WP:RS) say.
+If you have a subject in mind, check WP:BASIC. If you conclude "Yeah, I have those sources, no problem!", move on to WP:BLP and WP:YFA. Good luck! Gråbergs Gråa Sång (talk) 09:57, 22 June 2022 (UTC)
+Anuaurora If you mean visial or performing contemporary artists, then List of contemporary artists has plenty of examples of articles. David notMD (talk) 21:11, 22 June 2022 (UTC)
+Unsure what to do about addition to a biographical page
+Hello, I am unsure what to do about a recent edit to Samia Suluhu Hassan (leader of Tanzania). It is the last edit, you can read it at the end of the Political reforms and unity section. Its only citation is a literal URL posted as a paragraph rather than a ref. It also lacks any apparent attempt at neutrality and looks to me like agenda editing. As I understand this is bad for biographical pages?
+
+A further question, how do non-developed countries best manage edits that focus on comments leaders make? For example, the page for the previous leader is significantly dedicated to comments he made (he had MUCH to say... haha) rather than anything he did in office, or what happened in Tanzania while he was in office. Is there a good way to avoid the pages being only about comments, and preferably more about providing encyclopedic information about the biographical subject? For another example, Mama Samia's comments on the breast size of the female football players were not a thing she should have said. But it is not particularly relevant to her biography or her role as leader of Tanzania. If the article is not often maintained, as most Tanzania articles are not, is there a way other than constant policing to address this? Maybe a section for them to go? BevoLJ (talk) 11:10, 22 June 2022 (UTC)
+
+Hi @BevoLJ, I've reverted the edit because it contained original reporting and NPOV issues, thanks for bring it up here. I'm not sure how to answer your second question so I'll leave it for other hosts to answer. Although usually it really depends on a case by case basis. Justiyaya 11:42, 22 June 2022 (UTC)
+Thank you very much. Can you please explain original reporting and NPOV to me? Is this non-natural or agenda editing? BevoLJ (talk) 11:46, 22 June 2022 (UTC)
+Neutral point of view means that all content should be written without any bias, and should represent all significant views about the subject.This especially applies when the topic is about a living person. It should also be ensured that the content is reliably sourced. So 'agenda-editing', etc. are violations of this policy. Kpddg (talk) 12:12, 22 June 2022 (UTC)
+Thank you for the explanation. I had learned about the importance of care to living person biographies. But the wording, or acronyms, had confused me. BevoLJ (talk) 12:18, 22 June 2022 (UTC)
+As for your article-specific questions, you will get better help at the article talk page, where interested editors can discuss this. Kpddg (talk) 13:08, 22 June 2022 (UTC)
+Additions to Existing Article
+This is not a question; it is just an observation. I recently asked advice from Wikipedia on whether I could add a section to an already very good Wikipedia article on Colonial Pipeline Company. I was advised by the person that responded that I needed to provide primary or original sources. I do not have such, so I abandoned the task.
+
+The CPC article is long and informative, but it does not mention or skims very lightly the control systems that allow this 5500 mile system with more than 200 facilities to be operated from a remote site. There is a lot of whiz-bang stuff about the large diameter pipe, the pumps and motors, the giant valves, the enormous BPD throughput but nothing about how it is controlled. Hint: it is not by humans on site at those facilities.
+
+I know this because I worked directly on designing, building, and installing those SCADA and control systems from 1966 until 2002. But in the end it is not really important. Keep up the good work. MisterURL (talk) 11:13, 22 June 2022 (UTC)
+
+In explanation, this is a side-effect of what Wikipedia is. We are a tertiary source. We rely on secondary sources to decide that something is interesting, go looking for the facts, and check their accuracy. We then collate and summarise information from the secondary sources. We shouldn't go directly to the primary sources: simplistically, primary sources are often biased by their authors, who are inevitably closely connected with the subject. A good author of a secondary source has enough distance to see the subject in perspective and assess how important is that particular primary source, and to know its bias. Also we cannot use our own knowledge, because then we would be our own primary source. If you know something about a subject, what you have to do is go and write the primary or secondary material yourself, and then Wikipedia will have something to work with! It can be very frustrating when we encounter an article that is obviously incomplete, but this usually comes down to the fact that although we consider it interesting and important, so far no one else has done so, at least not enough to get it into print. But this is also what separates us from blog sites and general interest sites. There is nothing to stop a blog from being as accurate as Wikipedia - it's just we try to guarantee the reader sources, and some neutrality as enforced by being a collaborative effort of multiple editors based on the multiple efforts of many secondary sources. Elemimele (talk) 12:21, 22 June 2022 (UTC)
+How to handle edits that change names/Wikilinks into their native language?
+I do a lot of Anti-Vandalism, and sometimes I come across edits that change links or names into their native language. Here is an example: https://en.wikipedia.org/w/index.php?title=James_Kr%C3%BCss&curid=5697112&diff=1094407247&oldid=1094407096&diffmode=source
+
+How do I handle this? Is this okay, or is it considered disruptive? I'm asking because this is the English Wikipedia, I would assume that text should be kept in English. At least for phrases that are often used in their translated version. Kvoou ❯❯❯ Talk 12:52, 22 June 2022 (UTC)
+
+It's not even slightly disruptive. Your assumption is mistaken. The IP changed a redlink to the/an English name for a prize to a working link to the article in en:Wikipedia titled with the original German name, and even retained the/an English name as a gloss. The IP should be commended for the edit. -- Hoary (talk) 13:00, 22 June 2022 (UTC)
+In this particular case, they inserted a correct wikilink and used the name of the en-WP article, so it's quite constructive. Gråbergs Gråa Sång (talk) 13:51, 22 June 2022 (UTC)
+That edit is definitely an improvement. It gives the correct name for the prize (which was not previously given), and follows it by an English translation. It also provides a working wikilink to WP's article about the prize, in place of a redlink. Maproom (talk) 20:05, 22 June 2022 (UTC)
+Suggest Bot
+Hey there,
+
+Yesterday I attempted to add the Suggest Bot to my User talk page Here, it doesn't appear to have worked. I'm sure I've done something wrong, does anyone know what? — Preceding unsigned comment added by AdmiralAckbar1977 (talk • contribs) 14:25, 22 June 2022 (UTC)
+
+AdmiralAckbar1977 The code seems to be there on your Talk Page OK. I had a problem in the past which the user who runs the bot fixed very quickly. See the User:SuggestBot page for the link to the editor to contact via their Talk page. My thread with them is now archived at User_talk:Nettrom/Archive_2#Suggest_bot_stalled? Mike Turnbull (talk) 15:29, 22 June 2022 (UTC)
+The user page states that the bot would be down on 20 June to fix some issues, so maybe it is still going on. Or you could try adding it to the top of your page? Kpddg (talk) 15:37, 22 June 2022 (UTC)
+Stacking userboxes
+Is there a template that would allow me to stack the infobox, userboxes, and COI template on my user page? I want them to all be on the right side of the screen and I want them to stack, one above the other, rather than sitting in the middle of the page. I've tried using the Template:Align, but it doesn't appear to help. TipsyElephant (talk) 15:14, 22 June 2022 (UTC)
+
+Trouble with citations
+Hi Folks
+
+I have uploaded citations for a living Motor Sports personality but am having trouble with the citations. Can anyone help please ?
+
+Many Thanks
+
+RacingProphit Racingprophit (talk) 15:15, 22 June 2022 (UTC)
+
+I'm confused by your question. You say you've uploaded citations, and you're having problems with said citations. Do you mean that some work, and some don't? Or do you mean that none of them work. Regardless, I'd look here: Wikipedia:Citing sources. Another answer might be that you're attempting to insert something into the Automatic Citation section and that isn't working, from there you might want to switch to Manual Citation. Also, you could be on source editor, which is way less straightforward then visual editor. What might help is telling us which article you need help on, and a more experienced editor can walk you through it.
+Cheers, AdmiralAckbar1977 (talk) 15:27, 22 June 2022 (UTC)
+Presumably this is about Draft:James Derhaag. 199.208.172.35 (talk) 15:31, 22 June 2022 (UTC)
+Hi @Racingprophit, welcome to the Teahouse. Referencing for beginners is a good place to start learning how to format citations. I notice that there's a second draft for the same person at Jim Derhaag (yours is at James Derhaag) - that other draft's citations are better formatted, though it's far from perfect, so perhaps you could look at them to get an idea of what to do (and maybe integrate some of the info/sources from that draft into yours). 199.208.172.35 (talk) 16:22, 22 June 2022 (UTC)
+Reliable sources/Perennial sources
+I don't know if this is an appropriate question for the Teahouse, but I'll ask it anyway. When I was looking at WP:RSP, I noticed many of the sources considered reliable have a left-wing bias while many sources with a ring-wing bias are considered unreliable or partly reliable. Why is this? Interstellarity (talk) 16:12, 22 June 2022 (UTC)
+
+Hello, Interstellarity. This article may provide some insights. There are certainly publications on the left that are unreliable. The Palmer Report and Occupy Democrats come to mind. Cullen328 (talk) 16:33, 22 June 2022 (UTC)
+On the other hand, conservative publications like the Wall Street Journal and The Weekly Standard (now defunct) are considered reliable, as is the libertarian publication Reason. Cullen328 (talk) 16:45, 22 June 2022 (UTC)
+Cullen328 has given pretty much the perfect answer, but I'd add that WP:RSP is only a list of the sources that are most discussed, not of every source. Larger conservative publications have garnered more scrutiny over the years, and controversy attracts attention + discussion. I think the article Ideological bias on Wikipedia is an interesting read as well - There are certain areas that seem to have a "liberal" bias, and others that seem to have a "conservative" bias. ThadeusOfNazereth(he/they)Talk to Me! 17:44, 22 June 2022 (UTC)
+Thank you Cullen328 and ThadeusOfNazereth for your assistance. The reason why I asked this question is because I want to pay attention to whatever I’m reading online to make sure it is reliable, not solely to improve Wikipedia (although it’s obvious I want what is best for Wikipedia) but just to read to s:::tay informed about current and historical events. I never said that every liberal source is reliable and every conservative source is unreliable because that is obviously not the case. I know there are different kinds of reliable sources depending upon the context and biases. Please let me know how can I determine that the news I’m reading is reliable rather than looking at WP:RSP. Interstellarity (talk) 18:33, 22 June 2022 (UTC)
+Interstellarity, here are some useful tools from Rutgers University. Cullen328 (talk) 18:46, 22 June 2022 (UTC)
+Thank you for the info. It helps a lot. Interstellarity (talk) 19:25, 22 June 2022 (UTC)
+Acquiring a Mentor
+As a Wikipedia Newcomer, how do I acquire a mentor? Daddy Warbuxx (talk) 16:18, 22 June 2022 (UTC)
+
+Hello Daddy Warbuxx and welcome to the Teahouse. You may see if you have a mentor or join the Newcomer Growth program by enabling the Newcomer Edit features under Preferences>User Profile. I have started a conversation on your user talk page to assist you further. --ARoseWolf 16:27, 22 June 2022 (UTC)
+Hello @Daddy Warbuxx. Along with the methods @ARoseWolf mentioned, you may consider signing up as an adoptee for the Adopt-a-user program. As mentioned on its main page, it's not recommended to very new users. However, as you aquire a little more experience, Adopters can help you understand the "ins and outs" of Wikipedia. Urban Versis 32KB ⚡ (talk | contribs) 17:45, 22 June 2022 (UTC)
+Publishing an article in return for undisclosed payments
+I am not an editor of Wikipedia. I sought editorial help from Wikipedia editors in editing and publishing an article about my life, which I believe satisfies the applicable notability requirement. The article was published on the main Wikipedia pages and after about three months was removed to draft status, republished and removed again to draft status with the lead comment that the article "may have been created or edited in return for undisclosed payments, a violation of Wikipedia's terms of use" and that "the author has been sanctioned for failing to disclose paid contributions". I was unaware of any noncompliance with Wikipedia policies by the editor and would like to resubmit this article (and cure an additonal comment that the article may have been promotional) with the help of an editor who will comply with applicable disclosure rules and policies. Can you please advise now to proceed and identify one or more editors who will provide proper editorial assistance and comply with applicable rules and policies, so that the article has a fair chance of being and remaining published. 2603:8001:A401:EB00:4D5C:A4B1:D65D:A793 (talk) 18:47, 22 June 2022 (UTC)
+
+Welcome to the Teahouse, IP editor. Without knowing which draft you're talking about, there's not much any other editor can do to help you. The editor that you communicated most likely ran afoul of neglecting Wikipedia:Paid-contribution disclosure, which is a recurring problem Wikipedia has, and is something that is strongly looked down upon. While you're waiting to see if any interested editor is willing to help you, I encourage you to read the essay An article about yourself isn't necessarily a good thing. —Tenryuu 🐲 ( 💬 • 📝 ) 18:59, 22 June 2022 (UTC)
+Based on what was said by the IP, the draft in question seems to be Jack Samet (or maybe Anita Gupta, but that seems less likely). Unfortunately both have been rejected and two of the editors who submitted them have been blocked for COI violations, among other things (a third has simply gone inactive). 199.208.172.35 (talk) 19:21, 22 June 2022 (UTC)
+See User talk:GenomeBon for information about the block of the editor who submitted the draft about Jack Samet. Cullen328 (talk) 20:17, 22 June 2022 (UTC)
+If the draft article about your life was Declined there is a chance it can be improved and published. However, if it has been Rejected then it is a lost cause, and the project needs to be abandoned. I don’t know what article you are concerned about, so I don’t know the status of it.
+Have you read Notability and Referencing for beginners? It isn’t enough for a potential Wikipedia encyclopedia article to prove that you exist, it must also show that your life story meets the notability standards established by Wikipedia. And the way to prove that notability is by finding at least 3 good published references that don’t just mention you in passing, but discuss your life in depth. These references have to be independent of you or anyone working to promote your life. No press releases, information from personal websites, or interviews of you.
+The vast majority of Wikipedia editors are volunteers who work on projects they are interested it, and I have no idea how to find an actual experienced Wikipedia editor willing to help write your autobiography. But while you are waiting to find someone to assist you I would suggest you start gathering up as many good references as you can find, so that you can give them to the person who becomes interested in writing your life story. Karenthewriter (talk) 01:43, 23 June 2022 (UTC)
+Depression/Anxiety while exam day
+How to overcome this at all ? Currently i'm studying for Medical entrance examination and exam is on head and it is held by 17th July but i'm not sure about my selection coz i have not study well from past 9-10days and not securing good marks in mock .So ,now what should i have to do ?? Guptavirbhadra (talk) 19:51, 22 June 2022 (UTC)
+
+Wikipedia does not give medical advice, but I've heard somewhere that pressing the random article button can help when learning. weeklyd3 (message me | my contributions) 19:53, 22 June 2022 (UTC)
+Submission of article for review
+Hi, I am trying to submit an article in my sandbox for review but there is no button on the page to enable submission. Kindly assist. ∼∼∼∼ Nellydieli (talk) 20:40, 22 June 2022 (UTC)
+
+Hello, Nellydieli. You have submitted your draft but there is very little chance that it will be accepted. You would need to provide compelling evidence that this student event is notable, which is unlikely. Most of your references do not discuss the event. Your draft is written more like an essay than an encyclopedia article. I suggest that you read and study Your first article, and perhaps consider another topic. Cullen328 (talk) 20:49, 22 June 2022 (UTC)
+Hi Cullen328, thanks so much for your comment. I appreciate; and I will check to see what I can do about that article. However, this is not the article I am referring to. This page provided a "submit for review" button with which I submitted but not so with my other pages. I have other articles in my sandbox that I want to submit as well.Thanks to assist.∼∼∼∼ Nellydieli (talk) 21:04, 22 June 2022 (UTC)
+Hello, Nellydieli. That is why it is always advisable to mention the specific page. I guess that you are talking about User:Nellydieli/sandbox/Sotonye Denton West. I have submitted that draft for you. I believe that this person is almost certainly notable. I recommend, though, that you spend some time improving and expanding the draft. There are only two references in the draft, and certainly there must be other reliable sources that devote significant coverage to such an accomplished jurist. And even the two references now present include a lot of biographical information that can easily be incorporated into the draft. Cullen328 (talk) 02:20, 23 June 2022 (UTC)
+Hi Cullen328, I sure need a guide on Wikipedia and it looks like I found one in you already. Thank you so much. I was not gonna submit Sotonye Denton-West yet because as you rightly noted, there are only two references and my Instructor (from AfLIA) had informed, at the time we were training last year, that we needed at least four references to begin with. I will do more research on Denton-West in due course. Kindly check User:Nellydieli/sandbox/Opubo Da Lilly-Tariah. I have other articles to submit and I will do this in a while. Nellydieli (talk) 10:11, 23 June 2022 (UTC)
+Nellydieli If you want to develop articles in your sandbox(es) and then submit them when you judge they are ready, the easiest way to do that is to place the template {{User sandbox}} at the top of each sandbox page. You'll find that the template adds a button that you can use for submission. The alternative is to use the main articles for creation process. Thanks for your contributions. Mike Turnbull (talk) 10:17, 23 June 2022 (UTC)
+How do I delete a cancelled article.
+Recently found out that the article I desired to create is not considered notable enough, so I really need to delete it. Fijipedia (talk) 20:50, 22 June 2022 (UTC)
+
+Hi @Fijipedia. Place {{Db-g7}} at the top of your page. It should be deleted soon after. Urban Versis 32KB ⚡ (talk | contribs) 21:00, 22 June 2022 (UTC)
+Why is it so hard to navigate Wikipedia's meta-pages?
+I used to be able to go to pages like this one quite easily. Now, I only got to it because I remembered its not-obvious name. What are new or potential editors to do? Also, I don't know how to find out about black-listed sources. I wanted to find out if there is a discussion of ''Ancient Origins" and if there are exceptions to its not being allowed as a linked source.Kdammers (talk) 21:00, 22 June 2022 (UTC)
+
+Oh, now I see that most of what I wanted in the case of black-listing is in the pink message box above me draft. But, still, in general, how are people to find the lsit?Kdammers (talk) 21:11, 22 June 2022 (UTC)
+No can do: The pink comment block disappeared when I commented! Kdammers (talk) 21:15, 22 June 2022 (UTC)
+Hi @Kdammers. The latest discussion about that site is here (consensus seems to be no, never usable). As for new users, there are both editors and bots who go around placing welcome messages with helpful links on the talk pages of newcomers, plus there's the new mentorship/homepage thing. Hopefully less experienced users will ask questions and more experienced ones can point them to PS and the search box. 199.208.172.35 (talk) 21:18, 22 June 2022 (UTC)
+additionally, the easiest way to see if a source has been discussed to see if it is reliable is Reliable sources/Perennial sources, whoch you can access with the shorthand WP:RSP (Reliable sources, perennial), or you could access it through a link at the very top of Reliable sources (or WP:RS, Reliable sources). Many other pages can be accessed in a similar way, like WP:TH for the Teahouse, and WP:MOS for the Manual of Style. To see if a page has this, keep an eye out for the Shortcut box in each meta page. happy editing! 💜  melecie  talk - 00:43, 23 June 2022 (UTC)
+Where are the short-cut boxes? Kdammers (talk)
+Hello, Kdammers. There are an enormous number of shortcuts, some of which are in common use, and others that are quite obscure. Take a look at Wikipedia:Shortcut index. If you do not know the shortcut, you can type "WP:" plus a keyword in the search box. In other words, both "WP:RS" and "WP:Reliable sources" takes you to Wikipedia:Reliable sources. And so on. Cullen328 (talk) 01:29, 23 June 2022 (UTC)
+The shortcut boxes Melecie mentioned are usually at the top right of a page. The one for the Teahouse is embedded into the "Welcome to the Teahouse!" banner, right above the host picture. 174.21.23.32 (talk) 02:50, 23 June 2022 (UTC)
+question
+Why was I being accused of trolling when I made a valid request on a talk page? 73.167.238.120 (talk) 21:12, 22 June 2022 (UTC)
+
+Claiming you don't understand something when you do understand it can be construed as trolling. RudolfRed (talk) 21:20, 22 June 2022 (UTC)
+Well, the claim of trolling is incorrect, just to be clear. Thanks! 73.167.238.120 (talk) 21:39, 22 June 2022 (UTC)
+Please note that failure or refusal to "get the point" may be seen as disruptive editing. weeklyd3 (message me | my contributions) 01:56, 23 June 2022 (UTC)
+Wikipedia Analytics for Wikiprojects
+I am wondering if there is a way to see analytics for a Wikiproject such as Wikipedia:WikiProject Geography. I know there's article analytics, top view analytics, site analytics, language analytics, and category views at https://pageviews.wmcloud.org/ but I'm not sure how to look for Wikiproject views. ScientistBuilder (talk) 01:36, 23 June 2022 (UTC)
+
+Do you mean like this? [4] -- asilvering (talk) 02:02, 23 June 2022 (UTC)
+Hi @ScientistBuilder, to access the tool @Asilvering mentioned, go to the WikiProjects main page, go to "View History", and click on "Page statistics". Urban Versis 32KB ⚡ (talk | contribs) 03:11, 23 June 2022 (UTC)
+Better still, enable "MoreMenu" in Preferences-->Gadgets. -- asilvering (talk) 03:41, 23 June 2022 (UTC)
+Auto archiving whatever webpage I add to any articles
+When I add a reference or an external links to an article, I want the webpage to be archived. Then I have to check first if it is archived already in its 'normal' status and achive it if it is not. It would be very convenient it is archived automatically whatever link I added. It doesn't have to be archived periodically. Just once in its normal status is fine. I searched about Wikipedia auto archiving but it seems not what I expect. Is there some tool that I want? Regpath (talk) 03:24, 23 June 2022 (UTC)
+
+How do you type at the line of the heading
+If you don't know what i'm talking about, i'm talking about the line of the heading, basically, if you make a new section you will see a line, i was wondering how you can type in it, like the good articles and stuff. I'm using the {icon} template and i want to type at the line of the heading, basically if you use the {coord} templates it would appear on the right of the line of the heading. Leahnn Rey (talk) 04:52, 23 June 2022 (UTC)
+
+hi @Leahnn Rey and welcome back! if you want to place stuff at the top of the heading (like the good article icon), you should use {{topicon}} instead of {{icon}} (which displays inline text). if you want to place stuff at the bottom of the heading (like {{coords}}), you'd want to use <span> as such: <span id="coordinates"> Lorem ipsum dolor sit amet </span>, replacing the lipsum with whatever you wanna put in, which assigns them to the location coordinates typically use. examples of both can be found here in my sandbox. happy editing! 💜  melecie  talk - 08:39, 23 June 2022 (UTC)
+How to Report an Incorrect Photo of a Person on a Page
+https://en.wikipedia.org/wiki/William_Brand My great-grandfather was Sir William Alfred Brand C.B.E., cane farmer and politian, who I knew personally - I was a teenager when he passed away. There is a Wikipedia page on his life, which I have no problem with, EXCEPT the fact that the attached PHOTO is NOT him. My mum thinks it is a photo of another man who was also in politics, possibly before or after he served in politics. Anyone who didn't know my "Da" might easily have confused the 2 men as both wearing glasses and similar builds, but it is NOT the same man. Having the incorrect photo on his profile page is somewhat distressing to the older members of my family ie. my mum and her siblings (grandchildren of Sir W A Brand). Is it possible to have this photo removed? You can see a correct photo of my great-grandfather on the website of Australian Dictionary of Biography - https://adb.anu.edu.au/biography/brand-sir-william-alfred-9573 2001:8003:6460:7800:2D06:7FBA:65EE:E5B3 (talk) 05:00, 23 June 2022 (UTC)
+
+Thank you for raising this. I have taken the liberty of removing the image from the article. Images here tend to be uploaded at Wikimedia Commons, and looking at the information associated with that image, I can't see where it came from, or what evidence there might be that it's genuinely William Brand. We can only include reliable, sourced information, so it shouldn't be there. When it comes to images, unfortunately we can only use images that are free of copyright, or where the copyright has been released in a very generous way, so I don't feel able to use the image you provided. Maybe someone with a better understanding of copyright can reassess! Alternatively, if you have an image to which you own the copyright, you could upload it. I haven't gone looking for the image in other Wikipedias; you might like to do so, as it may have been used incorrectly elsewhere. Elemimele (talk) 06:07, 23 June 2022 (UTC)
+Rather to my surprise, Elemimele, Commons shows that this fuzzy little image, which you rightly removed from the en:Wikipedia article, gets quite a lot of use outside en:Wikipedia (and indeed is still used within it). That is unsatisfactory even now; and if nothing is done about it then I imagine that the image will creep back into the article on Brand. However, hasty removal is likely to be summarily reverted. I'll make a start. -- Hoary (talk) 06:17, 23 June 2022 (UTC)
+@Elemimele, Per the licensing info at [5], this image [6] appears to be annoyingly out of Commons reach. Ping @Alexis Jazz, if you have any wisdom for us. Gråbergs Gråa Sång (talk) 06:33, 23 June 2022 (UTC)
+Feel free to add comments to Deletion requests/File:William Brand.jpg. -- Hoary (talk) 06:32, 23 June 2022 (UTC)
+I don't think that we should have too much trouble getting a new image for the article. One solution would be for the IP to upload to Commons a photo of Brand (assuming the IP took one at some point). Alternatively, for deceased individuals, a WP:FAIRUSE image can be hosted on English Wikipedia for use in the article and the one at the link the IP provided seems to meet all the criteria. Mike Turnbull (talk) 10:37, 23 June 2022 (UTC)
+Semi-protected article
+I just tried to make my first edit to a semi-protected article, an addition to the short description, and I ran into trouble. First, I'm not an anonymous editor and I'm not newly registered (I just qualified for Wikipedia Library priviileges). The edit didn't show up in the preview, or on the page after I published the change. However, the edit showed up just fine in my list of contributions, and in the arti79.155.36.178cle's revision history. The edit is still there on the edit page. The article is The Batman (film) (I justified my edit in the edit summary). Pete Best Beatles (talk) 05:48, 23 June 2022 (UTC)
+
+Hello, Pete Best Beatles. That article is not semi-protected. It is Extended confirmed protected, which is a more stringent form of protection. As for your edit, you are trying to change the short description to 2022 American neo-noir superhero film by Matt Reeves. That description is way too detailed and it should be much more concise. Per Wikipedia:Short description, Editors should bear in mind that short descriptions are not intended to define the subject of the article. Rather, they provide a very brief indication of the field that is covered. You have jammed six different things into the "short" description. Be extremely concise. Cullen328 (talk) 06:05, 23 June 2022 (UTC)
+@Cullen328: I was just trying to add "neo-noir" to the existing description. Does "extended confirmed protected" mean I won't be able to make my addition (or that anyone will be able to take your advice either)? "Semi-protected" is what it says in the template on the edit page, that's why I said that. I think it's weird that my edit shows as legitimate on my list of contributions and in the article's revision history, since it didn't take. Pete Best Beatles (talk) 09:27, 23 June 2022 (UTC)
+@Pete Best Beatles: If you look at the edit history of the article, you'll see that your edit "took" for a few hours, until SirDot removed it with an edit summary of "Only the primary genre". Mike Turnbull (talk) 10:28, 23 June 2022 (UTC)
+Author's pseudonym
+While tidying up the article for a children's book series, I discovered the author (Jennifer Rowe) wrote the books under a pseudonym (Emily Rodda). The pseudonym is listed as the author, while the related articles are tagged as 'Books by Jennifer Rowe'. Initially I thought the article had been vandalized before discovering that 'Emily Rodda' links to 'Jennifer Rowe'.
+
+My question: is it reasonable to add the author's name, with something like "Rowan of Rin is a series of five children's fantasy novels by Australian author Jennifer Rowe (under her pseudonym Emily Rodda)"? WP:PSEUDONYM didn't seem to have the answer, and I discovered that there doesn't seem to be much consistency - for example books by Mary Ann Evans aka George Eliot sometimes mention they were written under a pen name and sometimes do not. Thanks in advance for any advice! StartGrammarTime (talk) 06:33, 23 June 2022 (UTC)
+
+@StartGrammarTime: Well, that one is a mess.
+If all books in that category had been written by "Emily Rodda", the easy fix would be to rename the category (we have Category:Lady Gaga albums, not Category:Stefani Germanotta albums). But the article Jennifer Rowe says that she wrote children’s books as Emily Rodda and adult books under her own name. The category includes Verity Birdwood, a character from the adult books (it is also questionable whether a character should be in "Category:Books by ...", but the books themselves have no article so far I suppose).
+I would say go for your suggestion and see if anyone complains. If there is pushback, a trip to WP:CFD might be required. TigraanClick here for my talk page ("private" contact) 08:47, 23 June 2022 (UTC)
+Need help to know why my article is regarded as promoting a company or instituion
+Hey Guys, i'm new here, just wondering why my article is regarded as promoting a company or instituion? Since the data resource i provided is coming from a concret and solit media resource, i choose the topic i like to contribute in WikiPedia but still get denied and rejected by directly deleting my contribution withour letting me know where the issue is at, i sincerely ask for help if anyone can guide me on this, Thank you for reading and replying, stay safe. 010e0e (talk) 07:34, 23 June 2022 (UTC)
+
+Hello, 010e0e. I cannot see the article that was deleted after that discussion, but I assume it is similar to Draft:ThunderCore. Some advice has been posted to your talk page, the most important of which being
+This submission's references do not show that the subject qualifies for a Wikipedia article—that is, they do not show significant coverage (not just passing mentions) about the subject in published, reliable, secondary sources that are independent of the subject (see the guidelines on the notability of organizations and companies). Before any resubmission, additional references meeting these criteria should be added (see technical help and learn about mistakes to avoid when addressing this issue). If no additional references exist, the subject is not suitable for Wikipedia.
+
+As far as I can tell, the current draft is sourced mostly to press releases and other sources closely associated to ThunderCore, which are therefore not independent. The only source approaching something of the quality we are looking for is Coindesk, but there is consensus that it should not be used because of conflict of interest issues.
+I do not really think the draft has issues of promotional tone, but the "qualification for a Wikipedia article" part (called "notability" here) is a big issue. If you cannot find good sources (e.g. mainstream newspaper sources) then you should stop working on the draft altogether because it will never be accepted. TigraanClick here for my talk page ("private" contact) 08:02, 23 June 2022 (UTC)
+An important thing to remember, 010e0e, is that Wikipedia is not interested in what the subject of an article says or wants to say about themselves, or what their associates say about them. Wikipedia is only interested in what people who have no connection with the subject, and who have not been prompted or fed information on behalf of the subject, have chosen to publish about the subject in reliable sources. ColinFine (talk) 09:44, 23 June 2022 (UTC)
+In addition to ThunderCore being deleted, the draft you moved to article about Chris Wang (ThunderCore CEO) is at AfD and likely to be deleted. You have not yet replied to a query on your Talk page asking whether you have a conflict of interest (WP:COI) or are paid or otherwise compensated (WP:PAID) for your attempts to create articles about ThunderCore and Wang. David notMD (talk) 10:27, 23 June 2022 (UTC)
+BMW E36 saloon 1994.
+Many thanks for definitive article on the BMW E36 saloon cars. The 1994 E36 that I have was classed as BMW E36 and is a 325iSE. The SE I am informed by BMW stands for "Special Equipment" and consists of an electric sun roof and rear headrests. Hope this is of some help. 81.178.174.73 (talk) 08:47, 23 June 2022 (UTC)
+
+Hello, IP user, and thank you for wanting to contribute to Wikipedia. If you have suggestions for improving an article, the best place to make then is on that article's talk page (rather than here, where thousands of editors hang out, quite probably none of whom know anything at about that subject or that article). However, all information in a Wikipedia article should be available in a reliable published source: information that is just from your (or my) personal knowledge is not acceptable - see Verifiability for why that is so important. ColinFine (talk) 09:47, 23 June 2022 (UTC)
+Assistance in Editing Page
+Hi so I recently updated the page of the California State Legislature, 2021–22 session as it very clearly had not been updated at all in several months (you can see in contributions I did over 3,000 characters worth. And for one of the things I was trying to update was the profile box for Mike McGuire who became Majority Leader of the California State Senate on January 19, 2022. Except whoever did the original table for his profile did it in a way that I have zero idea of adding in his new office as Majority Leader so if anyone who has a lot of experience in creating table's could possibly take a look and add that in that would be super helpful! — Preceding unsigned comment added by Sunnyboi18 (talk • contribs) 09:42, 23 June 2022 (UTC)
+
+Hello, Sunnyboi18. If nobody comes forward to help, I suggest asking at WT:WikiProject California or WT:WikiProject Politics. ColinFine (talk) 09:49, 23 June 2022 (UTC)
+Editor conduct
+Where and how can a concern be addressed regarding a non-admin editor who appears to be misusing their rollback tool? 50.237.67.210 (talk) 10:02, 23 June 2022 (UTC)
+
+Hi, welcome to the Teahouse, I would raise the matter at ANI (Administrators Noticeboard/Incidents) where administrators and other users can comment on it. Thanks, | Zippybonzo | Talk | 10:15, 23 June 2022 (UTC)
+Categories: Wikipedia TeahouseWikipedia help forums
+Navigation menu
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Project pageTalk
+ReadEditNew sectionView history
+Search
+Search Wikipedia
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Tools
+What links here
+Related changes
+Special pages
+Permanent link
+Page information
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+
+Languages
+العربية
+Deutsch
+Français
+हिन्दी
+Bahasa Indonesia
+Português
+Русский
+اردو
+中文
+16 more
+Edit links
+This page was last edited on 23 June 2022, at 10:42 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 3.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaMobile viewDevelopersStatisticsCookie statementWikimedia FoundationPowered by MediaWiki

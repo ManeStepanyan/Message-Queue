@@ -1,0 +1,12 @@
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataCaptureService\bin\Debug\DataCaptureService.exe.config
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataCaptureService\bin\Debug\DataCaptureService.exe
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataCaptureService\bin\Debug\DataCaptureService.pdb
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataCaptureService\obj\Debug\DataCaptureService.csproj.AssemblyReference.cache
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataCaptureService\obj\Debug\DataCaptureService.csproj.CoreCompileInputs.cache
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataCaptureService\obj\Debug\DataCaptureService.exe
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataCaptureService\obj\Debug\DataCaptureService.pdb
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataCaptureService\bin\Debug\Data\f1.txt
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataCaptureService\bin\Debug\Data\f2.txt
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataCaptureService\bin\Debug\Data\f3.txt
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataCaptureService\bin\Debug\Data\f4.txt
+C:\Users\Mane_Stepanyan\source\repos\Message-Queue\DataCaptureService\bin\Debug\Data\f5.txt
